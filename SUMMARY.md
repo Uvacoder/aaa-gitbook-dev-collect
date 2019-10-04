@@ -2,7 +2,8 @@
 
 * [Initial page](README.md)
 * [Images](images.md)
-* [Chrome](chrome/README.md)
-  * [Debugging](chrome/debugging/README.md)
-    * [Breakpoints](chrome/debugging/breakpoints.md)
+* [Browsers](browsers/README.md)
+  * [Chrome](browsers/chrome/README.md)
+    * [Debugging](browsers/chrome/debugging/README.md)
+      * [Breakpoints](browsers/chrome/debugging/breakpoints.md)
 
