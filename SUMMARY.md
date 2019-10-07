@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Pages](README.md)
 * [Abbreviations/Terms](abbreviations-terms.md)
 * [Accessibility](accessibility.md)
 * [Images](images.md)
