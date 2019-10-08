@@ -89,5 +89,19 @@ _Where the custom post type is “beer”_
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="image" %}
+{% code-tabs %}
+{% code-tabs-item title="image source" %}
+```php
+$html .= '<figure class="gallery-image">';
+    $html .= '<img src="' . $image['url'] . '" alt="' . $image['title'] . '" />';
+$html .= '</figure>';
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
+
 
 

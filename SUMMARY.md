@@ -18,6 +18,7 @@
   * [Crash course](git/crash-course.md)
   * [Learn git branching](git/learn-git-branching.md)
 * [Images](images.md)
+* [Learn](learn.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
 * [Tutorials](tutorials/README.md)
