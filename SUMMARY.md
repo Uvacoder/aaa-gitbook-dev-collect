@@ -11,6 +11,7 @@
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
+* [Cheatsheets](cheatsheets.md)
 * [Images](images.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
