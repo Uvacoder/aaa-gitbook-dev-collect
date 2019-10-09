@@ -30,6 +30,7 @@
 * [VIM](vim.md)
 * [QA/testing](qa-testing/README.md)
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
+  * [Browsers/devices](qa-testing/browsers.md)
 * [WordPress](wordpress/README.md)
   * [Development](wordpress/development.md)
   * [Plugins](wordpress/plugins.md)
