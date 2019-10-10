@@ -56,6 +56,62 @@ $html .= '</figure>';
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="navigation-top" %}
+```php
+	<?php  // Loop through nav object and output custom markup structure
+    $menu_items = get_nav_menu_items_by_location('top');
+	print_r($menu_items);?>
+	<div class="menu-main-menu-container">
+		<ul id="top-menu" class="menu">
+			<?php
+			// Loop through nav items
+			foreach ($menu_items as $i => $menu_item) {
+
+				// display top level items only first
+				if( $menu_item->menu_item_parent == 0 ) {
+
+	                $parent = $menu_item->ID;
+
+					// loop through nav items again to display sub-menu items of this top level item
+	                $menu_array = array();
+	                foreach( $menu_items as $submenu ) {
+	                    if( $submenu->menu_item_parent == $parent ) {
+	                        $has_sub_menu = true;
+	                        $menu_array[] = '<li><a href="' . $submenu->url . '">' . $submenu->title . '</a></li>' ."\n";
+	                    }
+	                }
+					// If the top level item has a sub-menu, build the mega-menu and display the second level items.
+	                if( $has_sub_menu == true && count( $menu_array ) > 0 ) {?>
+						<?php
+						echo '<li class="dropdown">';
+	                    echo '<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">' . $menu_item->title . ' <span class="caret"></span></a>';
+						?>
+						<div class="mega-menu-wrapper mega-menu-item-<?php echo $i;?>">
+							<div class="container">
+								<?php
+			                    echo '<ul class="dropdown-menu">';
+			                    echo implode( "\n", $menu_array );
+			                    echo '</ul>';
+								?>
+							</div><!--.container-->
+						</div><!--.mega-menu-wrapper-->
+	                <?php } else {
+
+	                    echo '<li>';
+	                    echo '<a href="' . $menu_item->url . '">' . $menu_item->title . '</a>';
+	                }
+
+	            }
+			}
+			?>
+		</ul>
+	</div>
+	<?php ?>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="title" %}
