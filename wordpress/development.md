@@ -4,6 +4,10 @@
 
 {% embed url="https://codex.wordpress.org/" %}
 
+{% embed url="https://codex.wordpress.org/Function\_Reference" %}
+
+
+
 ### Developer.wordpress
 
 {% embed url="https://developer.wordpress.org/themes/getting-started/" %}
