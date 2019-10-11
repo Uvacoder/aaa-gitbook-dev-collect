@@ -261,6 +261,11 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">SVG</td>
+      <td style="text-align:left">Scalable vector graphic</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">URL</td>
       <td style="text-align:left">Uniform Resource Locator</td>
       <td style="text-align:left"></td>
