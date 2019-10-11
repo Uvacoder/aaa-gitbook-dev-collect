@@ -7,6 +7,7 @@
   * [Can I use?](browsers/can-i-use.md)
   * [Chrome](browsers/chrome/README.md)
     * [Console](browsers/chrome/console/README.md)
+      * [Dev tools](browsers/chrome/console/dev-tools.md)
       * [Breakpoints](browsers/chrome/console/breakpoints.md)
     * [Extensions](browsers/chrome/extensions.md)
 * [Career](career/README.md)
