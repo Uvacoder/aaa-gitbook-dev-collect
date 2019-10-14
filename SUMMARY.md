@@ -39,6 +39,8 @@
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
 * [WordPress](wordpress/README.md)
   * [Development](wordpress/development.md)
+  * [PHP](wordpress/php/README.md)
+    * [var\_dumb\($variable\);](wordpress/php/untitled.md)
   * [Plugins](wordpress/plugins.md)
   * [Snippets](wordpress/snippets.md)
   * [Themes](wordpress/themes.md)
