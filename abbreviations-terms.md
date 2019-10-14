@@ -206,6 +206,11 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">NPM</td>
+      <td style="text-align:left">node package management</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">PHP</td>
       <td style="text-align:left">php: hypertext preprocessor</td>
       <td style="text-align:left"></td>
@@ -303,6 +308,7 @@ Term
 | crash | to cause a running program to stop due to an error |  |
 | debug | to investigate and fix bugs |  |
 | declaration | code that declares that something exists |  |
+| decoupling | a practice in which every part of your code is fully independent, and any dependencies are passed via arguments or injections. |  |
 | definition | code that fully implements something |  |
 | explicit | Stated clearly and in detail, leaving no room for confusion or doubt. |  |
 | function | a block of code designed to perform a particular task. |  |
