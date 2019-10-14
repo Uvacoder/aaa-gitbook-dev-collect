@@ -25,6 +25,7 @@
 * [Learn](learn.md)
 * [Navigation](navigation/README.md)
   * [Dropdown nav](navigation/dropdown-nav.md)
+  * [Mega menu](navigation/mega-menu.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
 * [Tutorials](tutorials/README.md)
