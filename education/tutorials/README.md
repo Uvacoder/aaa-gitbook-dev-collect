@@ -1,6 +1,14 @@
-# List
+# Tutorials
 
-{% embed url="https://dev.to/miku86/best-resources-to-start-into-learning-web-development-html-css-javascript-react-nodejs-56cj" %}
+### Current
+
+| name | url | description | date started |
+| :--- | :--- | :--- | :--- |
+| edx - cs50 | edx - cs50 | computer science | 4/13/2019 |
+| watch and code | [https://watchandcode.com/p/practical-javascript](https://watchandcode.com/p/practical-javascript) | javascript | 3/25/2019 |
+| JS30 | [https://javascript30.com/](https://javascript30.com/) | js |  |
+
+### List
 
 | name | url | description | date started | date ended | hours spent |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -47,4 +55,14 @@
 | wordpress and react | [https://wp-and-react.com](https://wp-and-react.com) | wp and react tutorials |  |  |  |
 | youtube | [https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) | vanilla javascript playlist |  |  |  |
 | interneting is hard | [https://internetingishard.com/](https://internetingishard.com/) | html/css |  |  |  |
+
+### Completed
+
+
+
+| name | url | description | date started | date ended |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
