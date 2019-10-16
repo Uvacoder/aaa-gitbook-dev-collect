@@ -303,6 +303,7 @@ Term
 | bug | error, flaw, failure, or fault in a computer program |  |
 | call | to run the code in a function | \(function\(\) {}\(\); |
 | callback | a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action. |  |
+| canonical | in computer science, the standard state or behavior of an attribute. This term is borrowed from mathematics, where it is used to refer to concepts that are unique and/or natural. |  |
 | compiler | program that converts code into an executable |  |
 | constant | variable that never changes its value | const |
 | constructors | The constructor method is a special method for creating and initializing an object created within a class. |  |
