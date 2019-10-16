@@ -294,6 +294,7 @@ Term
 
 | Definition | Example |  |
 | :--- | :--- | :--- |
+| affordance | the quality or property of an object that defines its possible uses or makes clear how it can or should be used We sit or stand on a chair because those **affordances** are fairly obvious |  |
 | algorithm | step by step procedure to achieve a specific goal |  |
 | argument | value that is passed into a function when it is called | function\(arg\) {} |
 | array | a value that contains a sequence of other values | \[\] |
