@@ -7,6 +7,7 @@
 | edx - cs50 | edx - cs50 | computer science | 4/13/2019 |
 | watch and code | [https://watchandcode.com/p/practical-javascript](https://watchandcode.com/p/practical-javascript) | javascript | 3/25/2019 |
 | JS30 | [https://javascript30.com/](https://javascript30.com/) | js |  |
+| [Web Development from Scratch](https://www.educative.io/courses/learn-web-development-from-scratch) | [https://www.educative.io/courses/learn-web-development-from-scratch](https://www.educative.io/courses/learn-web-development-from-scratch) | web dev | 10/16/2019 |
 
 ### List
 
