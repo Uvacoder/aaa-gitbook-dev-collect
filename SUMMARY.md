@@ -16,6 +16,7 @@
 * [Cheatsheets](cheatsheets.md)
 * [Education](education/README.md)
   * [Books](education/books.md)
+  * [Podcasts](education/podcasts.md)
   * [Tutorials](education/tutorials/README.md)
     * [Sources](education/tutorials/list.md)
     * [MDN](education/tutorials/mdn.md)
