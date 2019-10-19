@@ -1,5 +1,7 @@
 # Abbreviations/Terms
 
+### Abbreviations
+
 {% tabs %}
 {% tab title="Abbreviations" %}
 
@@ -71,6 +73,11 @@
     <tr>
       <td style="text-align:left">CORS</td>
       <td style="text-align:left">Cross-Origin Resource Sharing</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">CPD</td>
+      <td style="text-align:left">continuous progressive development</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -288,7 +295,11 @@
   </tbody>
 </table>
 {% endtab %}
+{% endtabs %}
 
+### Terms
+
+{% tabs %}
 {% tab title="Terms" %}
 Term
 
@@ -319,4 +330,6 @@ Term
 | stack trace | A report of the active stack frames at a certain point in time during the execution of a program. |  |
 {% endtab %}
 {% endtabs %}
+
+
 
