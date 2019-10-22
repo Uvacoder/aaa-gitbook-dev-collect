@@ -11,4 +11,7 @@
 | Meta Box | https://metabox.io/ |
 | Migrate db pro | https://deliciousbrains.com/wp-migrate-db-pro/ |
 | Post types order | https://www.nsp-code.com/wordpress-plugins/post-types-order/ |
+| WordPress REST API \(Version 2\) | [https://wordpress.org/plugins/rest-api/](https://wordpress.org/plugins/rest-api/) |
+| WP-REST-API V2 Menus | [https://wordpress.org/plugins/wp-rest-api-v2-menus/](https://wordpress.org/plugins/wp-rest-api-v2-menus/) |
+|  |  |
 
