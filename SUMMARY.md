@@ -36,6 +36,8 @@
 * [Performance](performance/README.md)
   * [Google's PageSpeed Insights](performance/googles-pagespeed-insights.md)
   * [SSL test](performance/ssl-test.md)
+* [Server](server/README.md)
+  * [Status codes](server/status-codes.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
 * [VIM](vim.md)
