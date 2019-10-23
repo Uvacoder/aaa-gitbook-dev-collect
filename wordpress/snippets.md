@@ -123,6 +123,12 @@ $html .= '</figure>';
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 {% endtab %}
+
+{% tab title="rest api" %}
+```javascript
+dev.local/wp-json/wp/v2/posts
+```
+{% endtab %}
 {% endtabs %}
 
 ### Traina
@@ -164,4 +170,8 @@ _Where the custom post type is “beer”_
 ```
 {% endtab %}
 {% endtabs %}
+
+```text
+wp-json/wp/v2/posts
+```
 
