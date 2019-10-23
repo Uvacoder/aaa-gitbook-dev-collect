@@ -43,13 +43,13 @@
     </tr>
     <tr>
       <td style="text-align:left">Big O</td>
-      <td style="text-align:left">a mathematical notation that describes the limiting behavior of a function
+      <td style="text-align:left">A mathematical notation that describes the limiting behavior of a function
         when the argument tends towards a particular value or infinity.</td>
     </tr>
     <tr>
       <td style="text-align:left">CDN</td>
       <td style="text-align:left">
-        <p>content delivery network.</p>
+        <p>Content delivery network.</p>
         <p>putting assets on different server for speed purposes</p>
       </td>
     </tr>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td style="text-align:left">CMS</td>
-      <td style="text-align:left">content management systems</td>
+      <td style="text-align:left">Content management systems</td>
     </tr>
     <tr>
       <td style="text-align:left">CORS</td>
@@ -67,24 +67,24 @@
     </tr>
     <tr>
       <td style="text-align:left">CPD</td>
-      <td style="text-align:left">continuous progressive development</td>
+      <td style="text-align:left">Continuous progressive development</td>
     </tr>
     <tr>
       <td style="text-align:left">CRLF</td>
-      <td style="text-align:left">carriage return line feed</td>
+      <td style="text-align:left">Carriage return line feed</td>
     </tr>
     <tr>
       <td style="text-align:left">CRUD</td>
-      <td style="text-align:left">create, read, update, delete</td>
+      <td style="text-align:left">Create, read, update, delete</td>
     </tr>
     <tr>
       <td style="text-align:left">CSS</td>
-      <td style="text-align:left">cascading stylesheets</td>
+      <td style="text-align:left">Cascading stylesheets</td>
     </tr>
     <tr>
       <td style="text-align:left">curl</td>
       <td style="text-align:left">
-        <p>client URL</p>
+        <p>Client URL</p>
         <p>a computer software project providing a library (libcurl) and command-line
           tool (curl) for transferring data using various protocols.</p>
       </td>
@@ -95,15 +95,15 @@
     </tr>
     <tr>
       <td style="text-align:left">DB</td>
-      <td style="text-align:left">database</td>
+      <td style="text-align:left">Database</td>
     </tr>
     <tr>
       <td style="text-align:left">DOM</td>
-      <td style="text-align:left">document object model</td>
+      <td style="text-align:left">Document object model</td>
     </tr>
     <tr>
       <td style="text-align:left">DRY</td>
-      <td style="text-align:left">dont repeat yourself</td>
+      <td style="text-align:left">Dont repeat yourself</td>
     </tr>
     <tr>
       <td style="text-align:left">ES6</td>
@@ -111,11 +111,11 @@
     </tr>
     <tr>
       <td style="text-align:left">FTP</td>
-      <td style="text-align:left">file transfer protocol</td>
+      <td style="text-align:left">File transfer protocol</td>
     </tr>
     <tr>
       <td style="text-align:left">GraphQL</td>
-      <td style="text-align:left">graph query language</td>
+      <td style="text-align:left">Graph query language</td>
     </tr>
     <tr>
       <td style="text-align:left">HTML</td>
@@ -127,19 +127,19 @@
     </tr>
     <tr>
       <td style="text-align:left">IDE</td>
-      <td style="text-align:left">integrated development environment</td>
+      <td style="text-align:left">Integrated development environment</td>
     </tr>
     <tr>
       <td style="text-align:left">IIFE</td>
-      <td style="text-align:left">immediately invoked function expression</td>
+      <td style="text-align:left">Immediately invoked function expression</td>
     </tr>
     <tr>
       <td style="text-align:left">JSON</td>
-      <td style="text-align:left">javascript object notation</td>
+      <td style="text-align:left">Javascript object notation</td>
     </tr>
     <tr>
       <td style="text-align:left">JS</td>
-      <td style="text-align:left">javascript</td>
+      <td style="text-align:left">Javascript</td>
     </tr>
     <tr>
       <td style="text-align:left">JSX</td>
@@ -147,15 +147,15 @@
     </tr>
     <tr>
       <td style="text-align:left">KISS</td>
-      <td style="text-align:left">keep it simple stupid</td>
+      <td style="text-align:left">Keep it simple stupid</td>
     </tr>
     <tr>
       <td style="text-align:left">KPI</td>
-      <td style="text-align:left">key performance indicator</td>
+      <td style="text-align:left">Key performance indicator</td>
     </tr>
     <tr>
       <td style="text-align:left">MD</td>
-      <td style="text-align:left">mark down</td>
+      <td style="text-align:left">Mark down</td>
     </tr>
     <tr>
       <td style="text-align:left">MEAN</td>
@@ -183,15 +183,15 @@
     </tr>
     <tr>
       <td style="text-align:left">NPM</td>
-      <td style="text-align:left">node package management</td>
+      <td style="text-align:left">Node package management</td>
     </tr>
     <tr>
       <td style="text-align:left">PHP</td>
-      <td style="text-align:left">php: hypertext preprocessor</td>
+      <td style="text-align:left">Php: hypertext preprocessor</td>
     </tr>
     <tr>
       <td style="text-align:left">PWA</td>
-      <td style="text-align:left">progressive web apps</td>
+      <td style="text-align:left">Progressive web apps</td>
     </tr>
     <tr>
       <td style="text-align:left">Rest API</td>
@@ -203,15 +203,15 @@
     </tr>
     <tr>
       <td style="text-align:left">ROI</td>
-      <td style="text-align:left">return on investment</td>
+      <td style="text-align:left">Return on investment</td>
     </tr>
     <tr>
       <td style="text-align:left">RSS</td>
-      <td style="text-align:left">rich site summary</td>
+      <td style="text-align:left">Rich site summary</td>
     </tr>
     <tr>
       <td style="text-align:left">RWD</td>
-      <td style="text-align:left">responsive web design</td>
+      <td style="text-align:left">Responsive web design</td>
     </tr>
     <tr>
       <td style="text-align:left">RWS</td>
@@ -219,11 +219,15 @@
     </tr>
     <tr>
       <td style="text-align:left">SASS</td>
-      <td style="text-align:left">syntactically awesome style sheets</td>
+      <td style="text-align:left">Syntactically awesome style sheets</td>
     </tr>
     <tr>
       <td style="text-align:left">SCSS</td>
-      <td style="text-align:left">sassy css</td>
+      <td style="text-align:left">Sassy css</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">SSR</td>
+      <td style="text-align:left">Server side rendering</td>
     </tr>
     <tr>
       <td style="text-align:left">SEO</td>
