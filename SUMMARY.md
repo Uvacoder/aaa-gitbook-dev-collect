@@ -37,6 +37,8 @@
   * [Web graphics](images/web-graphics.md)
 * [Navigation](navigation/README.md)
   * [Dropdown nav](navigation/dropdown-nav.md)
+  * [navigation examples](navigation/navigation-examples.md)
+  * [Circular nav](navigation/circular-nav.md)
   * [Mega menu](navigation/mega-menu.md)
 * [Performance](performance/README.md)
   * [Google's PageSpeed Insights](performance/googles-pagespeed-insights.md)
