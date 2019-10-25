@@ -20,6 +20,7 @@
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
 * [Cheatsheets](cheatsheets.md)
+* [Domains](domains.md)
 * [Education](education/README.md)
   * [Books](education/books.md)
   * [Podcasts](education/podcasts.md)
