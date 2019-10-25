@@ -23,6 +23,7 @@
 * [Domains](domains.md)
 * [Education](education/README.md)
   * [Books](education/books.md)
+  * [Gitbook](education/gitbook.md)
   * [Podcasts](education/podcasts.md)
   * [Tutorials](education/tutorials/README.md)
     * [Sources](education/tutorials/list.md)
