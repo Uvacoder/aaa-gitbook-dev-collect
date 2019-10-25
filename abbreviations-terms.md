@@ -223,7 +223,11 @@
     </tr>
     <tr>
       <td style="text-align:left">SCSS</td>
-      <td style="text-align:left">Sassy css</td>
+      <td style="text-align:left">Sassy CSS</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">SSH</td>
+      <td style="text-align:left">Secure shell</td>
     </tr>
     <tr>
       <td style="text-align:left">SSR</td>
