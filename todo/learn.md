@@ -2,11 +2,11 @@
 description: Things to learn and read up on
 ---
 
-# Learn
+# read web articles
 
-### Things to learn/read about
+Description
 
-| Description | Date added | Date completed |
+| Date added | Date completed |  |
 | :--- | :--- | :--- |
 | ~~~~[~~callback-based function to a promise-based function~~](https://www.geeksforgeeks.org/javascript-promises/)~~~~ |  | 10/23/2019 |
 | [css houdini](%20https://developer.mozilla.org/en-US/docs/Web/Houdini) |  |  |
