@@ -49,6 +49,7 @@
   * [Google's PageSpeed Insights](performance/googles-pagespeed-insights.md)
   * [SSL test](performance/ssl-test.md)
 * [Server](server/README.md)
+  * [Serverless services](server/serverless-services.md)
   * [Status codes](server/status-codes.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
