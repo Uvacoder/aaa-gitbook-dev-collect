@@ -18,6 +18,7 @@ description: Things to learn and read up on
 | [defining a function](%20https://areknawo.com/different-ways-of-defining-a-function-in-javascript/) | 10/30/2019 |
 | [DNS Record Crash Course for Web Developers](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn) | 10/30/2019 |
 | [6 Frontend challenges](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc) | 11/4/2019 |
+| [JavaScript Prototypes, a Pocket Reference](https://medium.com/@ajmeyghani/javascript-prototypes-a-pocket-reference-d88f550ffce3) | 11/5/2019 |
 
 ### Completed
 
