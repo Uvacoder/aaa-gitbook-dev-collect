@@ -1,6 +1,6 @@
 # var\_dumb\($variable\);
 
-```php
+```
 var_dump($menu);
 ```
 

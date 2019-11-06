@@ -38,6 +38,7 @@
 | JSX | JavaScript syntax extension |
 | KISS | Keep it simple stupid |
 | KPI | Key performance indicator |
+| LOE | Level of effort |
 | MD | Mark down |
 | MEAN | The MEAN stack is MongoDB, Express.js, AngularJS, and Node.js |
 | MERN | Mongo, Express, React, NodeJS, Redux and Webpack |
