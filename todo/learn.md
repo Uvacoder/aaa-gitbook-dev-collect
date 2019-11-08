@@ -25,6 +25,8 @@ description: Things to learn and read up on
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
 | [callback-based function to a promise-based function](https://www.geeksforgeeks.org/javascript-promises/) |  | 10/23/2019 |
+| [Hey developers, own your canonical!](https://hashnode.com/post/hey-developers-own-your-canonical-ck1ggpmgs000cd9s1323ltbo7) | 11/8/2019 | 11/8/2019 |
 |  |  |  |
-|  |  |  |
+
+
 

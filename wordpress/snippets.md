@@ -4,13 +4,13 @@
 
 {% tabs %}
 {% tab title="php conditional logic" %}
-```
+```php
 <?php if ($form_desc): ?>
   <h6 class="footer__form__desc"><?php echo $form_desc; ?></h6>
 <?php endif; ?>
 ```
 
-```
+```php
 if($text_eyebrow):
   $output .= '<h6 class="eyebrow">' . $text_eyebrow . '</h6>';
 endif;
@@ -20,7 +20,7 @@ $output .= '
 {% endtab %}
 
 {% tab title="image source" %}
-```
+```php
 $html .= '<figure class="gallery-image">';
     $html .= '<img src="' . $image['url'] . '" alt="' . $image['title'] . '" />';
 $html .= '</figure>';
@@ -32,7 +32,7 @@ $html .= '</figure>';
 
 {% tabs %}
 {% tab title="nav" %}
-```
+```php
 	// This theme uses wp_nav_menu() in three locations.
 	register_nav_menus( array(
 		'top'    => __( 'Top Menu', 'traina' ),
@@ -41,7 +41,7 @@ $html .= '</figure>';
 	) );
 ```
 
-```
+```php
 	<?php  // Loop through nav object and output custom markup structure
     $menu_items = get_nav_menu_items_by_location('top');
 	print_r($menu_items);?>
@@ -95,13 +95,13 @@ $html .= '</figure>';
 {% endtab %}
 
 {% tab title="title" %}
-```
+```php
 <title>	<?php wp_title('|',true,'right'); bloginfo('name'); ?></title>
 ```
 {% endtab %}
 
 {% tab title="rest api" %}
-```
+```javascript
 dev.local/wp-json/wp/v2/posts
 ```
 {% endtab %}
@@ -111,7 +111,7 @@ dev.local/wp-json/wp/v2/posts
 
 {% tabs %}
 {% tab title="traina icons" %}
-```
+```php
 <?php echo traina_get_svg_icon('arrow-icon'); ?>
 ```
 {% endtab %}
@@ -119,7 +119,7 @@ dev.local/wp-json/wp/v2/posts
 {% tab title="WP REST API" %}
 By default, the REST API does not support the ‘menu\_order’ order\_by filter. Luckily, we can add to the allowed filters list. Place this in your functions.php or similar file:
 
-```
+```php
 // This enables the orderby=menu_order for Posts
 add_filter( 'rest_post_collection_params', 'filter_add_rest_orderby_params', 10, 1 );
 
@@ -137,13 +137,13 @@ function filter_add_rest_orderby_params( $params ) {
 
 _Where the custom post type is “beer”_
 
-```
+```php
 /wp-json/wp/v2/beer?orderby=menu_order&order=asc
 ```
 {% endtab %}
 {% endtabs %}
 
-```
+```text
 wp-json/wp/v2/posts
 ```
 
