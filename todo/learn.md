@@ -8,7 +8,6 @@ description: Things to learn and read up on
 
 | Article title / link | Date added |
 | :--- | :--- |
-| [native browser: lazy loading](https://web.dev/native-lazy-loading) |  |
 | [rest api](https://www.youtube.com/watch?v=rGObWtjxGBc) |  |
 | [css games](%20https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
 | [ssh](%20https://dev.to/djangotricks/things-i-want-to-remember-about-ssh-21el?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
@@ -26,6 +25,7 @@ description: Things to learn and read up on
 | [callback-based function to a promise-based function](https://www.geeksforgeeks.org/javascript-promises/) |  | 10/23/2019 |
 | [Hey developers, own your canonical!](https://hashnode.com/post/hey-developers-own-your-canonical-ck1ggpmgs000cd9s1323ltbo7) | 11/8/2019 | 11/8/2019 |
 | [css houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini) |  | 11/9/2019 |
+| [native browser: lazy loading](https://web.dev/native-lazy-loading) |  | 11/10/2019 |
 |  |  |  |
 
 
