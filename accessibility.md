@@ -12,5 +12,8 @@
 
 |  |  |
 | :--- | :--- |
+| Axe | [https://www.deque.com/axe/](https://www.deque.com/axe/) |
 | WCAG color contrast | [https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en) |
+| Headings Map | https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi |
+|  |  |
 
