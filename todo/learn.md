@@ -27,6 +27,7 @@ description: Things to learn and read up on
 | [css houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini) |  | 11/9/2019 |
 | [native browser: lazy loading](https://web.dev/native-lazy-loading) |  | 11/10/2019 |
 | [WTF is gzipping \(and how is it different from minification\)?](https://gomakethings.com/wtf-is-gzipping-and-how-is-it-different-from-minification/) | 11/11/2019 | 11/11/2019 |
+| [Why Not Having a CS Degree is Awesome](https://dev.to/thecaitcode/why-not-having-a-cs-degree-is-awesome-he6) | 11/11/2019 | 11/11/2019 |
 
 
 
