@@ -55,6 +55,7 @@
   * [Slick](slider/slick.md)
 * [Taskrunners](taskrunners/README.md)
   * [Gulp](taskrunners/gulp.md)
+* [Tech](tech.md)
 * [Todo](todo/README.md)
   * [read web articles](todo/learn.md)
   * [watch youtube devs](todo/watch-youtube-devs.md)
