@@ -59,6 +59,7 @@
   * [read web articles](todo/learn.md)
   * [watch youtube devs](todo/watch-youtube-devs.md)
 * [VIM](vim.md)
+* [VScode](vscode.md)
 * [QA/testing](qa-testing/README.md)
   * [Browsers/devices](qa-testing/browsers.md)
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
