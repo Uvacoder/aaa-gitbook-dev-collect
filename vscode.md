@@ -4,8 +4,8 @@
 
 |  |  |
 | :--- | :--- |
-| option W | wrap selected HTML in `<p>` tags |
-|  |  |
+| `option` `W` | wrap selected HTML in `<p>` tags |
+| `control` `option` `s` | re-order selected CSS properties in alphabetical order |
 
 ### Plugins
 
