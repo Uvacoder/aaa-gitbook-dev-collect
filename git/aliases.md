@@ -2,12 +2,12 @@
 
 {% embed url="https://jonsuh.com/blog/git-command-line-shortcuts/" %}
 
-```text
+```bash
 touch ~/.bash_profile;
 open ~/.bash_profile
 ```
 
-```text
+```bash
 source ~/.profile
 # ----------------------
 # Aliases
