@@ -45,7 +45,6 @@
   * [Slick](slider/slick.md)
 * [Taskrunners](taskrunners.md)
 * [Tech](tech.md)
-* [Todo](todo.md)
 * [VIM](vim.md)
 * [VScode](vscode.md)
 * [QA/testing](qa-testing/README.md)
