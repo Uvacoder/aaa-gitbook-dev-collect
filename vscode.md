@@ -5,7 +5,8 @@
 |  |  |
 | :--- | :--- |
 | `option` `W` | wrap selected HTML in `<p>` tags |
-| `control` `option` `s` | re-order selected CSS properties in alphabetical order |
+| `⌥`  `⇧` `s` | re-order selected CSS properties in alphabetical order |
+| `⌥` `⇧` `f` | beautify entire CSS document |
 
 ### Plugins
 
