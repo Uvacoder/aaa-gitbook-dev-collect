@@ -9,7 +9,6 @@ description: Things to learn and read up on
 | Article title / link | Date added |
 | :--- | :--- |
 | [css games](%20https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
-| [future of js](%20https://dev.to/christopherkade/the-future-of-javascript-features-to-keep-an-eye-on-3d0h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
 | [modern web development](%20https://dev.to/decipherzonesoft/modern-web-development-2019-5g51) | 10/29/2019 |
 | [defining a function](%20https://areknawo.com/different-ways-of-defining-a-function-in-javascript/) | 10/30/2019 |
 | [DNS Record Crash Course for Web Developers](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn) | 10/30/2019 |
