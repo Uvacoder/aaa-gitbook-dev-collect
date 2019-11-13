@@ -9,7 +9,6 @@ description: Things to learn and read up on
 | Article title / link | Date added |
 | :--- | :--- |
 | [css games](%20https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
-| [ssh](%20https://dev.to/djangotricks/things-i-want-to-remember-about-ssh-21el?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
 | [future of js](%20https://dev.to/christopherkade/the-future-of-javascript-features-to-keep-an-eye-on-3d0h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) |  |
 | [modern web development](%20https://dev.to/decipherzonesoft/modern-web-development-2019-5g51) | 10/29/2019 |
 | [defining a function](%20https://areknawo.com/different-ways-of-defining-a-function-in-javascript/) | 10/30/2019 |
@@ -27,6 +26,8 @@ description: Things to learn and read up on
 | [native browser: lazy loading](https://web.dev/native-lazy-loading) |  | 11/10/2019 |
 | [WTF is gzipping \(and how is it different from minification\)?](https://gomakethings.com/wtf-is-gzipping-and-how-is-it-different-from-minification/) | 11/11/2019 | 11/11/2019 |
 | [Why Not Having a CS Degree is Awesome](https://dev.to/thecaitcode/why-not-having-a-cs-degree-is-awesome-he6) | 11/11/2019 | 11/11/2019 |
+| [Protecting and syncing secret keys](https://zellwk.com/blog/environment-variables/) | 11/13/2019 | 11/13/2019 |
+| [Things I want to remember about SSH](https://dev.to/djangotricks/things-i-want-to-remember-about-ssh-21el?) |  | 11/13/2019 |
 
 
 
