@@ -18,6 +18,7 @@
 | [DNS Record Crash Course for Web Developers](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn) | 10/30/2019 |  |
 | [6 Frontend challenges](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc) | 11/4/2019 |  |
 | [JavaScript Prototypes, a Pocket Reference](https://medium.com/@ajmeyghani/javascript-prototypes-a-pocket-reference-d88f550ffce3) | 11/5/2019 |  |
+| [Becoming a Junior Developer in 2019](https://medium.com/epfl-extension-school/becoming-a-junior-developer-in-2019-1942e4f6427f) | 11/13/2019 | 11/13/2019 |
 
 ### Channels/videos
 
