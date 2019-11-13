@@ -28,6 +28,7 @@
   * [Tutorial](git/atlassian-tutorial.md)
 * [Images](images/README.md)
   * [Responsive Images](images/responsive-images.md)
+  * [SVG](images/svg.md)
   * [TinyPNG](images/tinypng.md)
   * [Web graphics](images/web-graphics.md)
 * [Navigation](navigation/README.md)
