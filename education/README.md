@@ -29,4 +29,5 @@
 | [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) | channel |  |  |
 |  |  |  |  |
 | [rest api](https://www.youtube.com/watch?v=rGObWtjxGBc) | video |  |  |
+| [css tricks](https://css-tricks.com/css-tricks-chronicle-xxxvii/) | conference | 11/14/2019 |  |
 
