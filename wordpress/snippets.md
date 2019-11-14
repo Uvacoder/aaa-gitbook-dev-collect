@@ -4,12 +4,15 @@
 
 {% tabs %}
 {% tab title="php conditional logic" %}
+{% code title="if h6 form description" %}
 ```php
 <?php if ($form_desc): ?>
   <h6 class="footer__form__desc"><?php echo $form_desc; ?></h6>
 <?php endif; ?>
 ```
+{% endcode %}
 
+{% code title="conditional php logic" %}
 ```php
 if($text_eyebrow):
   $output .= '<h6 class="eyebrow">' . $text_eyebrow . '</h6>';
@@ -17,14 +20,17 @@ endif;
 $output .= '
 
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="image source" %}
+{% code title="image source" %}
 ```php
 $html .= '<figure class="gallery-image">';
     $html .= '<img src="' . $image['url'] . '" alt="' . $image['title'] . '" />';
 $html .= '</figure>';
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -32,6 +38,7 @@ $html .= '</figure>';
 
 {% tabs %}
 {% tab title="nav" %}
+{% code title="register nav menus" %}
 ```php
 	// This theme uses wp_nav_menu() in three locations.
 	register_nav_menus( array(
@@ -40,7 +47,9 @@ $html .= '</figure>';
 		'social' => __( 'Social Links Menu', 'traina' ),
 	) );
 ```
+{% endcode %}
 
+{% code title="navigation-top" %}
 ```php
 	<?php  // Loop through nav object and output custom markup structure
     $menu_items = get_nav_menu_items_by_location('top');
@@ -92,12 +101,15 @@ $html .= '</figure>';
 	</div>
 	<?php ?>
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="title" %}
+{% code title="page title \| site name" %}
 ```php
 <title>	<?php wp_title('|',true,'right'); bloginfo('name'); ?></title>
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="rest api" %}
@@ -111,9 +123,11 @@ dev.local/wp-json/wp/v2/posts
 
 {% tabs %}
 {% tab title="traina icons" %}
+{% code title="get svg arrow icon" %}
 ```php
 <?php echo traina_get_svg_icon('arrow-icon'); ?>
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="WP REST API" %}
