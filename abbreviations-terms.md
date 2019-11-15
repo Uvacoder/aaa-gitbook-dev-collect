@@ -92,6 +92,7 @@
 | explicit | Stated clearly and in detail, leaving no room for confusion or doubt. |
 | function | a block of code designed to perform a particular task. |
 | implicit | Implied though not plainly expressed |
+| obfuscate | render obscure, unclear, or unintelligible. |
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
 | stack trace | A report of the active stack frames at a certain point in time during the execution of a program. |
 
