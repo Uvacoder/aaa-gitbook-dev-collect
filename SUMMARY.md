@@ -23,6 +23,7 @@
   * [Tutorials](education/tutorials/README.md)
     * [Sources](education/tutorials/list.md)
     * [MDN](education/tutorials/mdn.md)
+* [Favicon](favicon.md)
 * [Git](git/README.md)
   * [Aliases](git/aliases.md)
   * [Tutorial](git/atlassian-tutorial.md)
