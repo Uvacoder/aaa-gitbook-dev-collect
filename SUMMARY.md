@@ -15,6 +15,7 @@
   * [Interviewing](career/interviewing.md)
 * [Cheatsheets](cheatsheets.md)
 * [Component library](component-library.md)
+* [Cookies](cookies.md)
 * [Domains](domains.md)
 * [Education](education/README.md)
   * [Books](education/books.md)
