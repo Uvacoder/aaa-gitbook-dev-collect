@@ -27,6 +27,7 @@
 * [Favicon](favicon.md)
 * [Git](git/README.md)
   * [Aliases](git/aliases.md)
+  * [SSH](git/ssh.md)
   * [Tutorial](git/atlassian-tutorial.md)
 * [Images](images.md)
 * [Misc](misc/README.md)
