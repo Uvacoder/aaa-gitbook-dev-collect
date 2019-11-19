@@ -1,11 +1,14 @@
 # Cheatsheets
 
+### Links
+
 | Symbol | Description |
 | :--- | :--- |
 | symbols | [https://www.toptal.com/designers/htmlarrows/](https://www.toptal.com/designers/htmlarrows/) |
 | keyboard shortcuts | [https://devhints.io/](https://devhints.io/) |
+| NATO phonetic alphabet | [https://en.wikipedia.org/wiki/NATO\_phonetic\_alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet) |
 
-### Keyboard shortcuts
+### Keyboard symbols
 
 | ⌃ | Control |
 | :--- | :--- |
@@ -15,25 +18,27 @@
 | ⇧ | Shift |
 | ⇪ | Caps Lock |
 | `fn` | Function key |
+| ← | left arrow  |
+| → | right arrow  |
+| ↑  | up arrow  |
+| ↓  | down arrow |
+| ⇥ | tab |
+| ⇤  | backtab |
+| ⌤ | enter |
+| ⌫ | delete |
+| ⌦ | forward delete |
+| ⇞ | page up |
+| ⇟ | page down |
+| ⌧ | clear |
+| ␣  | space |
+| ⎋ | escape |
+| ![&#x23CF;](https://s.w.org/images/core/emoji/12.0.0-1/svg/23cf.svg) | eject |
 
-← is left arrow   
-→ is right arrow   
-↑ is up arrow   
-↓ is down arrow   
-⇥ is tab   
-⇤ is backtab   
-![&#x21A9;](https://s.w.org/images/core/emoji/12.0.0-1/svg/21a9.svg)is return   
-⌤ is enter   
-⌫ is delete   
-⌦ is forward delete   
-⇞ is page up   
-⇟ is page down   
-![&#x2196;](https://s.w.org/images/core/emoji/12.0.0-1/svg/2196.svg)is home   
-![&#x2198;](https://s.w.org/images/core/emoji/12.0.0-1/svg/2198.svg)is end   
-⌧ is clear   
-␣ is space   
-⎋ is escape   
-![&#x23CF;](https://s.w.org/images/core/emoji/12.0.0-1/svg/23cf.svg)is eject
+### Keyboard shoftcuts
+
+|  |  |  |
+| :--- | :--- | :--- |
+| `option` `shift` `d` | invert colors in chrome | [https://darkreader.org/](https://darkreader.org/) |
 
 ### Markdown
 
@@ -62,8 +67,6 @@
 | Emoji | `:emojicode:`  **Note:** Emoji codes can be found in the [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/). |
 
 ### NATO phonetic alphabet
-
-{% embed url="https://en.wikipedia.org/wiki/NATO\_phonetic\_alphabet" %}
 
 | Symbol | Code word | **Conflicting accounts of the pronunciation** |  |
 | :--- | :--- | :--- | :--- |
