@@ -2,10 +2,12 @@
 
 {% embed url="https://jonsuh.com/blog/git-command-line-shortcuts/" %}
 
+{% code title="Create bash profile then open it" %}
 ```bash
 touch ~/.bash_profile;
 open ~/.bash_profile
 ```
+{% endcode %}
 
 ```bash
 source ~/.profile

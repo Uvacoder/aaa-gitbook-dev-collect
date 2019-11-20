@@ -59,6 +59,7 @@
 | SASS | Syntactically awesome style sheets |
 | SCSS | Sassy CSS |
 | SEO | Search engine optimization |
+| SOAP | Simple Object Access Protocol |
 | SSH | Secure shell |
 | SSR | Server side rendering |
 | SVG | Scalable vector graphic |
