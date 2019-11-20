@@ -30,7 +30,7 @@
 | GCP | Google cloud platform |
 | GraphQL | Graph query language |
 | HTML | Hypertext Markup Language |
-| Http | Hypertext Transfer Protocol |
+| HTTP | Hypertext Transfer Protocol |
 | IDE | Integrated development environment |
 | IIFE | Immediately invoked function expression |
 | JS | Javascript |
@@ -60,6 +60,7 @@
 | SCSS | Sassy CSS |
 | SEO | Search engine optimization |
 | SOAP | Simple Object Access Protocol |
+| SOC | Seperation of concerns |
 | SSH | Secure shell |
 | SSR | Server side rendering |
 | SVG | Scalable vector graphic |
@@ -95,7 +96,9 @@
 | implicit | Implied though not plainly expressed |
 | obfuscate | render obscure, unclear, or unintelligible. |
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
+| Seperation of concerns | Design principle for **separating** a computer program into distinct sections such that each section addresses a separate **concern**. A **concern** is a set of information that affects the code of a computer program. |
 | stack trace | A report of the active stack frames at a certain point in time during the execution of a program. |
+| Stateless | The client data is not stored on the server, the session is stored client-side \(typically in session storage\). |
 
 
 
