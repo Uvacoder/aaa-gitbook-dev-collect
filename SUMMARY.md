@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Abbreviations/Terms](abbreviations-terms.md)
 * [Accessibility](accessibility.md)
+* [API](api.md)
 * [Browsers](browsers/README.md)
   * [Chrome](browsers/chrome/README.md)
     * [Console](browsers/chrome/console/README.md)
