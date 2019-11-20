@@ -4,7 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
-| [JavaScript Fundamentals: An Introduction to REST APIs](https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b) | 11/15/2019 |  |
+| [JavaScript Fundamentals: An Introduction to REST APIs](https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b) | 11/15/2019 | 11/19/2019 |
 | [currentColor and SVGs](https://gomakethings.com/currentcolor-and-svgs/#) | 11/14/2019 | 11/14/2019 |
 | [Becoming a Junior Developer in 2019](https://medium.com/epfl-extension-school/becoming-a-junior-developer-in-2019-1942e4f6427f) | 11/13/2019 | 11/13/2019 |
 | [6 Frontend challenges](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc) | 11/4/2019 |  |
