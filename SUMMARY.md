@@ -23,6 +23,7 @@
     * [Sources](education/tutorials/list.md)
     * [MDN](education/tutorials/mdn.md)
 * [Favicon](favicon.md)
+* [Forms](forms.md)
 * [Git](git/README.md)
   * [Aliases](git/aliases.md)
   * [SSH](git/ssh.md)
