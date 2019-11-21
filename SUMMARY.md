@@ -30,6 +30,7 @@
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
   * [Memes](misc/memes.md)
+* [Modals](modals.md)
 * [Navigation](navigation/README.md)
   * [Circular nav](navigation/circular-nav.md)
   * [Dropdown nav](navigation/dropdown-nav.md)
