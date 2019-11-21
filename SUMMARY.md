@@ -30,6 +30,7 @@
   * [Aliases](git/aliases.md)
   * [SSH](git/ssh.md)
 * [Images](images.md)
+* [Links](links.md)
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
   * [Memes](misc/memes.md)
