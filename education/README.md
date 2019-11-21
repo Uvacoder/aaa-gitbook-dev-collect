@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [What I Wish I Knew Before Learning How to Code](https://attachments.convertkitcdnn.com/153160/351e01a1-4704-4443-9a7d-a94ff2922a21/What%20I%20Wish%20I%20Knew%20Before%20Learning%20to%20Code%20-%20Ali%20Spittel.pdf) | 11/21/2019 | chapter 1 |
 | [JavaScript Fundamentals: An Introduction to REST APIs](https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b) | 11/15/2019 | 11/19/2019 |
 | [currentColor and SVGs](https://gomakethings.com/currentcolor-and-svgs/#) | 11/14/2019 | 11/14/2019 |
 | [Becoming a Junior Developer in 2019](https://medium.com/epfl-extension-school/becoming-a-junior-developer-in-2019-1942e4f6427f) | 11/13/2019 | 11/13/2019 |
