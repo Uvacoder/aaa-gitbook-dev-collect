@@ -14,6 +14,7 @@
 | :--- | :--- | :--- |
 | [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) | JS | 10/23/2019 |
 | [What I Wish I Knew Before Learning to Code](https://attachments.convertkitcdnn.com/153160/351e01a1-4704-4443-9a7d-a94ff2922a21/What%20I%20Wish%20I%20Knew%20Before%20Learning%20to%20Code%20-%20Ali%20Spittel.pdf) | Code | 11/12/2019 |
+| [The MaxCoders Guide To Finding Your Dream Developer Job](https://www.amazon.com/MaxCoders-Guide-Finding-Dream-Developer-ebook/dp/B081MBL5C9) | Interviewing | 11/22/2019 |
 |  |  |  |
 
 ### Completed
