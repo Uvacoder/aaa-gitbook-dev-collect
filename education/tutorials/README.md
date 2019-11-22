@@ -2,12 +2,14 @@
 
 ### Current
 
-| name | url | description | date started |
+| name | url | description | start |
 | :--- | :--- | :--- | :--- |
 | edx - cs50 | edx - cs50 | computer science | 4/13/2019 |
 | watch and code | [https://watchandcode.com/p/practical-javascript](https://watchandcode.com/p/practical-javascript) | javascript | 3/25/2019 |
 | JS30 | [https://javascript30.com/](https://javascript30.com/) | js |  |
 | [Web Development from Scratch](https://www.educative.io/courses/learn-web-development-from-scratch) | [https://www.educative.io/courses/learn-web-development-from-scratch](https://www.educative.io/courses/learn-web-development-from-scratch) | web dev | 10/16/2019 |
+| Khan Academy | [https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro) |  | 11/21/2019 |
+|  |  |  |  |
 
 ### List
 
@@ -57,13 +59,5 @@
 | youtube | [https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) | vanilla javascript playlist |  |  |  |
 | interneting is hard | [https://internetingishard.com/](https://internetingishard.com/) | html/css |  |  |  |
 
-### Completed
 
-
-
-| name | url | description | date started | date ended |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
