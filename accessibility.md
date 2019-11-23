@@ -7,6 +7,7 @@
 | ADA Compliance | https://www.interactiveaccessibility.com/services/ada-compliance |
 | Unexpected accessibility tips | https://www.cjcid.com/articles/unexpected-a11y-tips/ |
 | WCAG 2.1 | https://www.w3.org/TR/WCAG21/ |
+| Wuhcag | [https://www.wuhcag.com/wcag-checklist/](https://www.wuhcag.com/wcag-checklist/) |
 
 ### Chrome Extensions
 
