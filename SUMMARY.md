@@ -27,6 +27,7 @@
 * [Forms](forms.md)
 * [Git](git/README.md)
   * [Aliases](git/aliases.md)
+  * [Remotes](git/remotes.md)
   * [SSH](git/ssh.md)
 * [Images](images.md)
 * [Links](links.md)
