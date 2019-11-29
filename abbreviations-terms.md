@@ -50,6 +50,7 @@
 | NPM | Node package management |
 | PHP | Php: hypertext preprocessor |
 | PWA | Progressive web apps |
+| REPL | read-eval-print loop |
 | Rest API | Representational State Transfer |
 | RESTful | Representational State Transfer |
 | ROI | Return on investment |
