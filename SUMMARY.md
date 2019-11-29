@@ -14,6 +14,7 @@
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
 * [Cheatsheets](cheatsheets.md)
+* [Command line](command-line.md)
 * [Component library](component-library.md)
 * [Cookies](cookies.md)
 * [Domains](domains.md)
