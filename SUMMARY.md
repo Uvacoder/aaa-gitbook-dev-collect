@@ -49,6 +49,7 @@
   * [Status codes](server/status-codes.md)
 * [Slider](slider/README.md)
   * [Slick](slider/slick.md)
+* [SVG](svg.md)
 * [Taskrunners](taskrunners.md)
 * [Tech](tech.md)
 * [VIM](vim.md)
