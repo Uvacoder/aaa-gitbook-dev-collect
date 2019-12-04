@@ -1,13 +1,14 @@
 # Accessibility
 
-|  |  |
-| :--- | :--- |
-| Accessibility insights | https://accessibilityinsights.io/ |
-| Accessibility Non-Compliance | https://www.telerik.com/blogs/so-youre-being-sued-for-accessibility-non-compliance |
-| ADA Compliance | https://www.interactiveaccessibility.com/services/ada-compliance |
-| Unexpected accessibility tips | https://www.cjcid.com/articles/unexpected-a11y-tips/ |
-| WCAG 2.1 | https://www.w3.org/TR/WCAG21/ |
-| Wuhcag | [https://www.wuhcag.com/wcag-checklist/](https://www.wuhcag.com/wcag-checklist/) |
+|  | start | end |
+| :--- | :--- | :--- |
+| [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/) | 12/4/2019 | 12/4/2019 |
+| [Accessibility insights](https://accessibilityinsights.io/) |  |  |
+| [Accessibility Non-Compliance](https://www.telerik.com/blogs/so-youre-being-sued-for-accessibility-non-compliance) |  |  |
+| [ADA Compliance](https://www.interactiveaccessibility.com/services/ada-compliance) |  |  |
+| [Unexpected accessibility tips](https://www.cjcid.com/articles/unexpected-a11y-tips/) |  |  |
+| [WCAG 2.1](https://www.w3.org/TR/WCAG21/) |  |  |
+| [Wuhcag](https://www.wuhcag.com/wcag-checklist/) |  |  |
 
 ### Chrome Extensions
 
