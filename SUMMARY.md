@@ -9,7 +9,7 @@
   * [Chrome](browsers/chrome/README.md)
     * [Console](browsers/chrome/console.md)
     * [Extensions](browsers/chrome/extensions.md)
-* [Bundler/taskrunners](taskrunners.md)
+* [Bundler / taskrunner](taskrunners.md)
 * [Buttons](buttons.md)
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
