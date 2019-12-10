@@ -6,6 +6,6 @@
 | [link hover effects](https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-17) |  |  |
 
 ```css
-<a href="#" title="description of link">Link</a>
+<a href="/" title="Return to homepage">Link</a>
 ```
 
