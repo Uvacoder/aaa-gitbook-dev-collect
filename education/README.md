@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [AUTHentication VS AUTHorization](https://dev.to/caffiendkitten/authentication-vs-authorization-25lc) | 12/11/2019 | 12/11/2019 |
 | [The mistake developers make when coding a hamburger menu](https://medium.com/free-code-camp/the-mistake-developers-make-when-coding-a-hamburger-menu-f46c7a3ff956) | 11/25/2019 | 11/25/2019 |
 | [What’s The Difference Between a Developer and an Engineer?](https://hackernoon.com/whats-the-difference-between-a-developer-and-an-engineer-1e7a97fc1bd) | 11/24/2019 | 11/24/2019 |
 | [What I Wish I Knew Before Learning How to Code](https://attachments.convertkitcdnn.com/153160/351e01a1-4704-4443-9a7d-a94ff2922a21/What%20I%20Wish%20I%20Knew%20Before%20Learning%20to%20Code%20-%20Ali%20Spittel.pdf) | 11/21/2019 | chapter 4 - 13/34 |
