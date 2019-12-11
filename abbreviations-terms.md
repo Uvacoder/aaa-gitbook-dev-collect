@@ -79,6 +79,8 @@
 | argument | value that is passed into a function when it is called |
 | array | a value that contains a sequence of other values |
 | assignment | the act of putting a value into a variable= |
+| Authentication | the act of validating that users are who they claim to be. |
+| Authorization | a process of giving a user permission to access a specific resource\(s\) or function\(s\) |
 | bash | command processor that usually runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script. |
 | bug | error, flaw, failure, or fault in a computer program |
 | call | to run the code in a function |
