@@ -58,7 +58,6 @@
   * [Browsers/devices](qa-testing/browsers.md)
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
 * [WordPress](wordpress/README.md)
-  * [Development](wordpress/development.md)
   * [PHP](wordpress/php.md)
   * [Plugins](wordpress/plugins.md)
   * [Snippets](wordpress/snippets.md)
