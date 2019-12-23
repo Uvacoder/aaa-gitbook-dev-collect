@@ -4,6 +4,8 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [HTML as a building block](https://gomakethings.com/html-as-a-building-block/) | 12/22/2019 | 12/22/2019 |
+| [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
 | [AUTHentication VS AUTHorization](https://dev.to/caffiendkitten/authentication-vs-authorization-25lc) | 12/11/2019 | 12/11/2019 |
 | [The mistake developers make when coding a hamburger menu](https://medium.com/free-code-camp/the-mistake-developers-make-when-coding-a-hamburger-menu-f46c7a3ff956) | 11/25/2019 | 11/25/2019 |
 | [What’s The Difference Between a Developer and an Engineer?](https://hackernoon.com/whats-the-difference-between-a-developer-and-an-engineer-1e7a97fc1bd) | 11/24/2019 | 11/24/2019 |
