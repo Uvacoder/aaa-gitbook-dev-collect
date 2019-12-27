@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [How Much Time Can You Save With HTML Shortcuts?](https://medium.com/better-programming/how-much-time-can-you-save-with-html-shortcuts-5357a32756d7) | 12/26/2019 |  |
 | [HTML as a building block](https://gomakethings.com/html-as-a-building-block/) | 12/22/2019 | 12/22/2019 |
 | [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
 | [AUTHentication VS AUTHorization](https://dev.to/caffiendkitten/authentication-vs-authorization-25lc) | 12/11/2019 | 12/11/2019 |
