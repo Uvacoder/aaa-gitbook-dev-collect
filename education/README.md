@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [The new MS Edge is very, very good](https://gomakethings.com/the-new-ms-edge-is-very-very-good/?mc_cid=d322808bba&mc_eid=e9174ba77f) | 12/29/2019 | 12/29/2019 |
 | [How Much Time Can You Save With HTML Shortcuts?](https://medium.com/better-programming/how-much-time-can-you-save-with-html-shortcuts-5357a32756d7) | 12/26/2019 |  |
 | [HTML as a building block](https://gomakethings.com/html-as-a-building-block/) | 12/22/2019 | 12/22/2019 |
 | [How To Check Data Types in JavaScript using typeof](https://medium.com/better-programming/how-to-check-data-types-in-javascript-using-typeof-424d0520a329) | 12/17/2019 | 12/17/2019 |
