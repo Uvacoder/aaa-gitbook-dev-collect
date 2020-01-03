@@ -1,6 +1,13 @@
 # Remotes
 
-```text
+{% code title="remove and add git sources" %}
+```bash
+$ git remote rm origin
+$ git remote add origin git@github.com:environment/project-name.git
+```
+{% endcode %}
+
+```bash
 git remote -v
 git remote add wpeprod git@git.wpengine.com:production/bioinncapital.git
 git remote add wpestage git@git.wpengine.com:staging/bioinncapital.git
