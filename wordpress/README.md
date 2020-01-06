@@ -13,6 +13,9 @@
 
 |  |  |
 | :--- | :--- |
-| Actions | Allow us to write functions that cause something to happen when something else happens. |
+| [Actions](https://developer.wordpress.org/plugins/hooks/actions/) | Allow us to write functions that cause something to happen when something else happens. |
+| [Hooks](https://developer.wordpress.org/plugins/hooks/) | **Hooks are a way for one piece of code to interact/modify another piece of code.** They make up the foundation for how plugins and themes interact with WordPress Core, but they’re also used extensively by Core itself. |
 | Filters | Allow us to manipulate data or content |
+
+
 
