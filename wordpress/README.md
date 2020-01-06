@@ -11,3 +11,8 @@
 | [GenerateWP](https://generatewp.com/) |  |  |
 | [Searchbar](https://wedevs.com/133739/add-search-bar-in-wordpress/) |  |  |
 
+|  |  |
+| :--- | :--- |
+| Actions | Allow us to write functions that cause something to happen when something else happens. |
+| Filters | Allow us to manipulate data or content |
+
