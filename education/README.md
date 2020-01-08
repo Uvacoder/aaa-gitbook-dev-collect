@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8/2020 |  |
 | [Learn to code in 2020, get hired, and have fun along the way](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) | 1/7/2020 |  |
 | [Year-end review: 2019](https://zellwk.com/blog/review-2019/?ck_subscriber_id=420572458) | 1/1/2020 | 1/1/2020 |
 | [The new MS Edge is very, very good](https://gomakethings.com/the-new-ms-edge-is-very-very-good/?mc_cid=d322808bba&mc_eid=e9174ba77f) | 12/29/2019 | 12/29/2019 |
