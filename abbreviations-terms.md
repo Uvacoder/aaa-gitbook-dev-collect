@@ -53,6 +53,7 @@
 | REPL | read-eval-print loop |
 | Rest API | Representational State Transfer |
 | RESTful | Representational State Transfer |
+| [RIA](https://en.wikipedia.org/wiki/Rich_web_application) | Rich Internet Application |
 | ROI | Return on investment |
 | RSS | Rich site summary |
 | RWD | Responsive web design |
