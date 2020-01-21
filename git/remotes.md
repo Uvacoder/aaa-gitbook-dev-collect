@@ -1,7 +1,10 @@
 # Remotes
 
-{% code title="remove and add git sources" %}
+{% code title="init remove and add git sources" %}
 ```bash
+// initialize a git repo
+$ git init
+
 $ git remote rm origin
 $ git remote add origin git@github.com:environment/project-name.git
 ```
