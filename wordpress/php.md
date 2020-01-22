@@ -11,6 +11,8 @@
 var_dump($menu);
 ```
 
+### Arrays
+
 {% code title="Arrays" %}
 ```php
 //first way to write an array
@@ -29,5 +31,8 @@ $array = array(
 
 |  |  |
 | :--- | :--- |
+| asort | This function is used to sort the array using the values. |
+| ksort | This function is used to sort the array using the key. |
 | [print\_r](https://www.php.net/manual/en/function.print-r.php) | Prints human-readable information about a variable |
+| var\_dump | browser will display all contents of that variable |
 
