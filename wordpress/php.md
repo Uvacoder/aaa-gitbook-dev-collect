@@ -32,6 +32,7 @@ $array = array(
 |  |  |
 | :--- | :--- |
 | asort | This function is used to sort the array using the values. |
+| &lt;&lt;&lt;EOT | acronym for `end of text`, string delimiter |
 | ksort | This function is used to sort the array using the key. |
 | [print\_r](https://www.php.net/manual/en/function.print-r.php) | Prints human-readable information about a variable |
 | var\_dump | browser will display all contents of that variable |
