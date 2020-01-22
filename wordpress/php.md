@@ -11,3 +11,19 @@
 var_dump($menu);
 ```
 
+{% code title="Arrays" %}
+```php
+//first way to write an array
+$array[0] = "first item"
+$array[1] = "second item"
+$array[2] = "third item"
+
+//second way to write an array
+$array = array(
+    0 => "first item",
+    1 => "second item",
+    2 => "third item"
+    );
+```
+{% endcode %}
+
