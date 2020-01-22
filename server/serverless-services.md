@@ -8,7 +8,7 @@
 ### Docker
 
 ```bash
-//setup wordpress
+#setup wordpress
 docker-compose up -d
 ```
 
