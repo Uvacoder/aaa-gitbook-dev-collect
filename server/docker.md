@@ -11,6 +11,9 @@ $ docker-compose up -d
 
 # To Tear Down
 $ docker-compose down --volumes
+
+# build docker image
+$ docker build -t johnpdang/repo-name
 ```
 
 ```yaml
