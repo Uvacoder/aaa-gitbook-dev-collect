@@ -49,6 +49,7 @@
 * [Performance](performance.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
+  * [Docker](server/docker.md)
   * [Status codes](server/status-codes.md)
 * [SVG](svg.md)
 * [Tech](tech.md)
