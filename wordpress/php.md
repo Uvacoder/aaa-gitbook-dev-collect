@@ -27,3 +27,7 @@ $array = array(
 ```
 {% endcode %}
 
+|  |  |
+| :--- | :--- |
+| [print\_r](https://www.php.net/manual/en/function.print-r.php) | Prints human-readable information about a variable |
+
