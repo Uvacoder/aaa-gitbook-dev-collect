@@ -29,6 +29,14 @@ $array = array(
 ```
 {% endcode %}
 
+### Cookie
+
+```php
+<?php
+setcookie(cookie_name, cookie_value, [expiry_time], [cookie_path], [domain], [secure], [httponly]);
+?>
+```
+
 |  |  |
 | :--- | :--- |
 | asort | This function is used to sort the array using the values. |
