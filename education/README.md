@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa) | 1/23/2020 | 1/23/2020 |
 | [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8/2020 |  |
 | [Learn to code in 2020, get hired, and have fun along the way](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) | 1/7/2020 |  |
 | [Year-end review: 2019](https://zellwk.com/blog/review-2019/?ck_subscriber_id=420572458) | 1/1/2020 | 1/1/2020 |
