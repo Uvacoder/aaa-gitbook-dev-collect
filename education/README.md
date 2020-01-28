@@ -4,6 +4,7 @@
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [How to build a side project that will impress future employers](https://dev.to/coderbyte/how-to-build-a-side-project-that-will-impress-future-employers-nl2) | 1/28/2020 | 1/28/2020 |
 | [Notes on Learning To Code](https://medium.com/streamplate/notes-on-learning-to-code-6893340ea470) | 1/26/2020 | 1/26/2020 |
 | [Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa) | 1/23/2020 | 1/23/2020 |
 | [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8/2020 |  |
