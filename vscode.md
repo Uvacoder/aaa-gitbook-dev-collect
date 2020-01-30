@@ -2,7 +2,6 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
-| [How to configure Prettier and VSCode](https://glebbahmutov.com/blog/configure-prettier-in-vscode/) | 1/30/2020 | 1/30/2020 |
 | [23 lesser known VS Code Shortcuts as GIF](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80) | 1/13/2020 | 1/13/2020 |
 
 ### Keyboard shortcuts

@@ -31,6 +31,7 @@
 * [Forms](forms.md)
 * [Git](git/README.md)
   * [Aliases](git/aliases.md)
+  * [Branches](git/branches.md)
   * [Remotes](git/remotes.md)
   * [SSH](git/ssh.md)
 * [Images](images.md)
