@@ -1,15 +1,21 @@
 # Education
 
-### Web articles
+### Web articles 2020
 
 | Article title / link | Date added | Date completed |
 | :--- | :--- | :--- |
+| [Resources for developers](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2020-02-03) | 2/3/ | 2/3 |
 | [How to build a side project that will impress future employers](https://dev.to/coderbyte/how-to-build-a-side-project-that-will-impress-future-employers-nl2) | 1/28/2020 | 1/28/2020 |
 | [Notes on Learning To Code](https://medium.com/streamplate/notes-on-learning-to-code-6893340ea470) | 1/26/2020 | 1/26/2020 |
 | [Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa) | 1/23/2020 | 1/23/2020 |
 | [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8/2020 |  |
 | [Learn to code in 2020, get hired, and have fun along the way](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) | 1/7/2020 |  |
 | [Year-end review: 2019](https://zellwk.com/blog/review-2019/?ck_subscriber_id=420572458) | 1/1/2020 | 1/1/2020 |
+
+### 2019
+
+|  |  |  |
+| :--- | :--- | :--- |
 | [The new MS Edge is very, very good](https://gomakethings.com/the-new-ms-edge-is-very-very-good/?mc_cid=d322808bba&mc_eid=e9174ba77f) | 12/29/2019 | 12/29/2019 |
 | [How Much Time Can You Save With HTML Shortcuts?](https://medium.com/better-programming/how-much-time-can-you-save-with-html-shortcuts-5357a32756d7) | 12/26/2019 |  |
 | [HTML as a building block](https://gomakethings.com/html-as-a-building-block/) | 12/22/2019 | 12/22/2019 |
