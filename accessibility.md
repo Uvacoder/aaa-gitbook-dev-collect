@@ -2,7 +2,6 @@
 
 |  | start | end |
 | :--- | :--- | :--- |
-| [WCAG 2.0 and Link Colors](https://webaim.org/blog/wcag-2-0-and-link-colors/) |  |  |
 | [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) | 12/10/2019 | 12/10/2019 |
 | [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/) | 12/4/2019 | 12/4/2019 |
 | [Accessibility insights](https://accessibilityinsights.io/) |  |  |
