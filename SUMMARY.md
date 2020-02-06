@@ -54,6 +54,7 @@
   * [Status codes](server/status-codes.md)
 * [SVG](svg.md)
 * [Tech](tech.md)
+* [Terminal](terminal.md)
 * [VIM](vim.md)
 * [VScode](vscode.md)
 * [QA/testing](qa-testing/README.md)
