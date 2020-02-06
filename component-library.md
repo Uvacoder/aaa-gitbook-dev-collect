@@ -15,7 +15,9 @@
 | [cart drawer](https://codyhouse.co/ds/components/app/cart-drawer) | 2/6 |
 | [choice buttons](https://codyhouse.co/ds/components/app/choice-buttons) | 2/6 |
 | [image zoom](https://codyhouse.co/ds/components/app/image-zoom) | 2/6 |
+| [order summary](https://codyhouse.co/ds/components/app/order-summary) | 2/6 |
 | [product](https://codyhouse.co/ds/components/app/product) | 2/6 |
+| [product gallery](https://codyhouse.co/ds/components/app/products-gallery) | 2/6 |
 | [responsive sidebar](https://codyhouse.co/ds/components/app/responsive-sidebar) | 2/6 |
 | [stacking cards](https://codyhouse.co/ds/components/app/stacking-cards) | 2/6 |
 
