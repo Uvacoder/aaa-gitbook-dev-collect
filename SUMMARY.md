@@ -8,6 +8,7 @@
 * [Browsers](browsers/README.md)
   * [Chrome](browsers/chrome/README.md)
     * [Console](browsers/chrome/console.md)
+    * [Dev tools](browsers/chrome/dev-tools.md)
     * [Extensions](browsers/chrome/extensions.md)
 * [Bundler / taskrunner](taskrunners.md)
 * [Buttons](buttons.md)
