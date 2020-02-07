@@ -1,17 +1,19 @@
 # Education
 
-### Web articles 2020
+### 2020
 
-| Article title / link | Date added | Date completed |
-| :--- | :--- | :--- |
-| [Building a login system with HTML, CSS, and JavaScript](https://zellwk.com/blog/frontend-login-system/?ck_subscriber_id=420572458) | 2/5 | 2/5 |
-| [Resources for developers](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2020-02-03) | 2/3 | 2/3 |
-| [How to build a side project that will impress future employers](https://dev.to/coderbyte/how-to-build-a-side-project-that-will-impress-future-employers-nl2) | 1/28/2020 | 1/28/2020 |
-| [Notes on Learning To Code](https://medium.com/streamplate/notes-on-learning-to-code-6893340ea470) | 1/26/2020 | 1/26/2020 |
-| [Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa) | 1/23/2020 | 1/23/2020 |
-| [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8/2020 |  |
-| [Learn to code in 2020, get hired, and have fun along the way](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) | 1/7/2020 |  |
-| [Year-end review: 2019](https://zellwk.com/blog/review-2019/?ck_subscriber_id=420572458) | 1/1/2020 | 1/1/2020 |
+| Article title / link | Date |
+| :--- | :--- |
+| [How arrays and strings are similar in vanilla JS](https://gomakethings.com/how-arrays-and-strings-are-similar-in-vanilla-js/?mc_cid=6a17a1acba&mc_eid=e9174ba77f) | 2/7 |
+| [Tools and developer habits](https://gomakethings.com/tools-and-developer-habits/?mc_cid=c4bd75b55e&mc_eid=e9174ba77f) | 2/7 |
+| [Building a login system with HTML, CSS, and JavaScript](https://zellwk.com/blog/frontend-login-system/?ck_subscriber_id=420572458) | 2/5 |
+| [Resources for developers](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2020-02-03) | 2/3 |
+| [How to build a side project that will impress future employers](https://dev.to/coderbyte/how-to-build-a-side-project-that-will-impress-future-employers-nl2) | 1/28 |
+| [Notes on Learning To Code](https://medium.com/streamplate/notes-on-learning-to-code-6893340ea470) | 1/26 |
+| [Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa) | 1/23 |
+| [Best HTML, CSS, Javascript Practice : Chrome Extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e) | 1/8 |
+| [Learn to code in 2020, get hired, and have fun along the way](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) | 1/7 |
+| [Year-end review: 2019](https://zellwk.com/blog/review-2019/?ck_subscriber_id=420572458) | 1/1 |
 
 ### 2019
 
