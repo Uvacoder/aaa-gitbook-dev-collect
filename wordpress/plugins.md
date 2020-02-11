@@ -14,6 +14,11 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Carbon fields</td>
+      <td style="text-align:left"><a href="https://carbonfields.net/">https://carbonfields.net/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Category Order and Taxonomy Terms Order</td>
       <td style="text-align:left">https://wordpress.org/plugins/taxonomy-terms-order/</td>
     </tr>
