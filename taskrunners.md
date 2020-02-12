@@ -12,8 +12,11 @@
 | webpack | https://webpack.js.org/ |
 
 {% code title="Parcel" %}
-```text
+```bash
 npm install -g parcel-bundler
+
+##navigate to project directory
+parcel index.html
 ```
 {% endcode %}
 
