@@ -11,3 +11,9 @@
 | Unpkg | [http://unpkg.com/](http://unpkg.com/) |
 | webpack | https://webpack.js.org/ |
 
+{% code title="Parcel" %}
+```text
+npm install -g parcel-bundler
+```
+{% endcode %}
+
