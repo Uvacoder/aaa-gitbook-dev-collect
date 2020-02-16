@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [The Front End Development Journey](https://medium.com/swlh/the-front-end-development-journey-bb091c5d5ab2) | 2/16 |
 | [How arrays and strings are similar in vanilla JS](https://gomakethings.com/how-arrays-and-strings-are-similar-in-vanilla-js/?mc_cid=6a17a1acba&mc_eid=e9174ba77f) | 2/7 |
 | [Tools and developer habits](https://gomakethings.com/tools-and-developer-habits/?mc_cid=c4bd75b55e&mc_eid=e9174ba77f) | 2/7 |
 | [Building a login system with HTML, CSS, and JavaScript](https://zellwk.com/blog/frontend-login-system/?ck_subscriber_id=420572458) | 2/5 |
