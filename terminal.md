@@ -21,3 +21,9 @@ sudo vim ~/.zshrc
 source ~/.zshrc
 ```
 
+```bash
+cd #change directory
+pwd #print working directory
+ls #list files
+```
+
