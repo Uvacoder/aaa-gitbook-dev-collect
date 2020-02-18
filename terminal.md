@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [http://zsh.sourceforge.net/Intro/intro\_toc.html](http://zsh.sourceforge.net/Intro/intro_toc.html) | 2/18 |
 | [https://ohmyz.sh/](https://ohmyz.sh/) | 2/18 |
 | [My Terminal Setup: iTerm2 + Zsh 🔥](https://dev.to/aspittel/my-terminal-setup-iterm2--zsh--30lm) | 2/6 |
 
