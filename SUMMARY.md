@@ -48,6 +48,7 @@
   * [Docker](server/docker.md)
   * [Status codes](server/status-codes.md)
 * [Starter Files](starter-files/README.md)
+  * [HTML](starter-files/html.md)
   * [.gitignore](starter-files/.gitignore.md)
   * [.htaccess](starter-files/.htaccess.md)
   * [package.json](starter-files/package.json.md)
