@@ -95,6 +95,7 @@
 | declaration | code that declares that something exists |
 | decoupling | a practice in which every part of your code is fully independent, and any dependencies are passed via arguments or injections. |
 | definition | code that fully implements something |
+| endpoint | The place that **APIs** send requests and where the resource lives, is called an **endpoint**. |
 | explicit | Stated clearly and in detail, leaving no room for confusion or doubt. |
 | function | a block of code designed to perform a particular task. |
 | implicit | Implied though not plainly expressed |
@@ -102,7 +103,7 @@
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
 | Seperation of concerns | Design principle for **separating** a computer program into distinct sections such that each section addresses a separate **concern**. A **concern** is a set of information that affects the code of a computer program. |
 | stack trace | A report of the active stack frames at a certain point in time during the execution of a program. |
-| Stateless | The client data is not stored on the server, the session is stored client-side \(typically in session storage\). |
+| stateless | The client data is not stored on the server, the session is stored client-side \(typically in session storage\). |
 
 
 
