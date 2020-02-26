@@ -13,27 +13,17 @@
   * Please run `echo $SHELL` from a new terminal to confirm.
   * Expected result: `/usr/bin/zsh` or similar
 
-{% code title="bash" %}
 ```text
 touch ~/.bash_profile;
 open ~/.bash_profile
 
-```
-{% endcode %}
-
-{% code title="zsh" %}
-```bash
 sudo vim ~/.zshrc
 source ~/.zshrc
-open ~/.zshrc
 ```
-{% endcode %}
 
-{% code title="terminal commands" %}
 ```bash
 cd #change directory
 pwd #print working directory
 ls #list files
 ```
-{% endcode %}
 
