@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [How To Learn To Code Faster](https://medium.com/swlh/how-to-learn-to-code-faster-32c36c6a7c21) | 3/1 |
 | [5 Top Free Programming Books for Front-End Developers](https://booksoncode.com/articles/free-programming-books-for-front-end-developers) | 2/24 |
 | [The Front End Development Journey](https://medium.com/swlh/the-front-end-development-journey-bb091c5d5ab2) | 2/16 |
 | [How arrays and strings are similar in vanilla JS](https://gomakethings.com/how-arrays-and-strings-are-similar-in-vanilla-js/?mc_cid=6a17a1acba&mc_eid=e9174ba77f) | 2/7 |
