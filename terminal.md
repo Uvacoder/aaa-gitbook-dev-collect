@@ -40,6 +40,7 @@ ls #list files
 {% code title="shortform" %}
 ```bash
 --save-dev ##--D
+i          ##install
 ```
 {% endcode %}
 
