@@ -39,7 +39,10 @@
         "bootstrap": "^4.3.1",
         "file-loader": "^2.0.0",
         "youtube-player": "^5.5.2"
-    }
+    },
+      "browserslist": [
+    "last 1 chrome versions"
+  ]
 }
 
 ```
