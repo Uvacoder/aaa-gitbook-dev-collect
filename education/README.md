@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Front-End Dev Tools For increased Productivity](https://medium.com/better-programming/10-productivity-tools-for-front-end-developers-4021cdef6fcb) | 3/4 |
 | [How To Learn To Code Faster](https://medium.com/swlh/how-to-learn-to-code-faster-32c36c6a7c21) | 3/1 |
 | [5 Top Free Programming Books for Front-End Developers](https://booksoncode.com/articles/free-programming-books-for-front-end-developers) | 2/24 |
 | [The Front End Development Journey](https://medium.com/swlh/the-front-end-development-journey-bb091c5d5ab2) | 2/16 |
