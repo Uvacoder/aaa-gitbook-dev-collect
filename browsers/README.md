@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| browser hacks | [http://browserhacks.com/](http://browserhacks.com/) |
 | mybrowser.fyi | [https://mybrowser.fyi/](https://mybrowser.fyi/) |
 | browserstack | https://www.browserstack.com/ |
 | can i use? | https://caniuse.com/ |
