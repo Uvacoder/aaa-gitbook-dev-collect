@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| mybrowser.fyi | [https://mybrowser.fyi/](https://mybrowser.fyi/) |
 | browserstack | https://www.browserstack.com/ |
 | can i use? | https://caniuse.com/ |
 | Screen size map | https://www.screensizemap.com/ |
