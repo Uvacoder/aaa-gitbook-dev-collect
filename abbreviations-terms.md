@@ -70,6 +70,7 @@
 | WPE | WordPress Engine |
 | Xhtml | Extensible hypertext markup language |
 | XML | eXtensible markup language |
+| XSS | Cross site scripting |
 
 ### Terms
 
