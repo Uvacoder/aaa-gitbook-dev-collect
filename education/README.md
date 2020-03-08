@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [9 Projects You Can Do to Become a Front-End Master in 2020](https://medium.com/better-programming/9-projects-you-can-do-to-become-a-front-end-master-in-2020-97577110cca1) | 3/7 |
 | [Front-End Dev Tools For increased Productivity](https://medium.com/better-programming/10-productivity-tools-for-front-end-developers-4021cdef6fcb) | 3/4 |
 | [How To Learn To Code Faster](https://medium.com/swlh/how-to-learn-to-code-faster-32c36c6a7c21) | 3/1 |
 | [5 Top Free Programming Books for Front-End Developers](https://booksoncode.com/articles/free-programming-books-for-front-end-developers) | 2/24 |
