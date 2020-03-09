@@ -23,6 +23,7 @@
 | curl | Client URL. a computer software project providing a library \(libcurl\) and command-line tool \(curl\) for transferring data using various protocols. |
 | D3 | Data driver documents |
 | DB | Database |
+| DCPA | Data Capture Processing Application |
 | DOM | Document object model |
 | DRY | Dont repeat yourself |
 | ES6 | Ecmascript 6 |
