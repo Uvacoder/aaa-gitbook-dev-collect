@@ -2,6 +2,7 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
+| [https://imagecompressor.com/](https://imagecompressor.com/) | optimizilla  | 3/4 |
 | [https://loremflickr.com/](https://loremflickr.com/) | placeholder image | 2/18 |
 | [Time-saving CSS techniques to create responsive images](https://medium.com/free-code-camp/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5) |  | 12/3/2019 |
 | [Complete Guide to Responsive Images!](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7) |  |  |
