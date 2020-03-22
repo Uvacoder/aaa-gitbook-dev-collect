@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 More VS Code Extensions That’ll Change Your Dev Life](https://medium.com/better-programming/5-more-vs-code-extensions-thatll-change-your-dev-life-16da5d563dbc) | 3/22 |
 | [What Does Your IDE/Code Editor Look Like?](https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=) | 2/13 |
 | [How to configure Prettier and VSCode](https://glebbahmutov.com/blog/configure-prettier-in-vscode/) | 1/30/2020 |
 | [23 lesser known VS Code Shortcuts as GIF](https://dev.to/devmount/23-lesser-known-vs-code-shortcuts-as-gif-80) | 1/13/2020 |
