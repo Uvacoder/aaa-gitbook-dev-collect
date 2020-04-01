@@ -35,6 +35,7 @@ open ~/.zshrc
 cd #change directory
 pwd #print working directory
 ls #list files
+echo $SHELL #echo's your terminal/shell
 ```
 {% endcode %}
 

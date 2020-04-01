@@ -23,7 +23,7 @@ alias ops="open /Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.ap
 # alias cps="close /Applications/Adobe Photoshop CC 2019/Adobe Photoshop CC 2019.app"
 alias oilly="open /Applications/Adobe Illustrator CC 2019/Adobe Illustrator.app"
 # alias cilly="close /Applications/Adobe Illustrator CC 2019/Adobe Illustrator.app"
-alias htdocs="cd\ /Application/MAMP/htdocs/"
+alias htdocs="cd /Application/MAMP/htdocs/"
 
 # ----------------------
 # Git Aliases
