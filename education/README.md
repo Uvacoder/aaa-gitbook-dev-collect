@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [How to get started with web development](https://gomakethings.com/how-to-get-started-with-web-development/?mc_cid=7ab7f330ec&mc_eid=[UNIQID]) | 4/4 |
 | [10 Extraordinary GitHub Repos for All Developers](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) | 4/1 |
 | [10 Inspiring Ideas for Your Next Front-End Project](https://medium.com/better-programming/10-inspiring-ideas-for-your-next-front-end-project-af67ef1cb688) | 3/16 |
 | [9 Projects You Can Do to Become a Front-End Master in 2020](https://medium.com/better-programming/9-projects-you-can-do-to-become-a-front-end-master-in-2020-97577110cca1) | 3/7 |
