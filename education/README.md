@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Positioning Crash Course](https://gomakethings.com/positioning-crash-course/) | 4/10 |
 | [I Don’t Care What Google or Apple or Whoever Did](https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) | 4/5 |
 | [How to get started with web development](https://gomakethings.com/how-to-get-started-with-web-development/?mc_cid=7ab7f330ec&mc_eid=[UNIQID]) | 4/4 |
 | [10 Extraordinary GitHub Repos for All Developers](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) | 4/1 |
