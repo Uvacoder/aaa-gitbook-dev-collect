@@ -5,6 +5,9 @@
 | [ADD A WORDPRESS ADMIN USER WITH PHPMYADMIN](https://wpengine.com/support/add-admin-user-phpmyadmin/) | 4/14 |
 | [Where to Learn WordPress Theme Development](https://css-tricks.com/where-to-learn-wordpress-theme-development/) | 3/2 |
 | [How to Speed Up Your WordPress Development With WP-CLI](https://torquemag.io/2017/02/wordpress-development-with-wp-cli/) | 12/13/2019 |
+
+|  |  |
+| :--- | :--- |
 | [Codex](https://codex.wordpress.org/) |  |
 | [Codex - function](https://codex.wordpress.org/Function_Reference) |  |
 | [Developer.wordpress](https://developer.wordpress.org/themes/getting-started/) |  |
