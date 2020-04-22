@@ -2,6 +2,10 @@
 
 |  |  |
 | :--- | :--- |
+| [If it's interactive, it needs focus styles](https://gomakethings.com/if-its-interactive-it-needs-focus-styles/?mc_cid=e46f4c8f02&mc_eid=[UNIQID]) | 4/22 |
+
+|  |  |
+| :--- | :--- |
 | [https://a11yproject.com/checklist/](https://a11yproject.com/checklist/) | 4/4 |
 | [WCAG 2.0 and Link Colors](https://webaim.org/blog/wcag-2-0-and-link-colors/) |  |
 | [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) | 12/10/2019 |
