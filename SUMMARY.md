@@ -41,6 +41,7 @@
 * [Modals](modals.md)
 * [Navigation](navigation.md)
 * [Performance](performance.md)
+* [Productivity](productivity.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
   * [Docker](server/docker.md)
