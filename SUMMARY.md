@@ -65,7 +65,8 @@
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
 * [WordPress](wordpress/README.md)
   * [PHP](wordpress/php.md)
-  * [Plugins](wordpress/plugins.md)
+  * [Plugins](wordpress/plugins/README.md)
+    * [ACF](wordpress/plugins/acf.md)
   * [Snippets](wordpress/snippets.md)
   * [Themes](wordpress/themes.md)
 

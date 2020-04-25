@@ -2,6 +2,10 @@
 
 |  |  |
 | :--- | :--- |
+| [Lightning fast web performance](https://gomakethings.com/lightning-fast-web-performance/?mc_cid=cc47eefa14&mc_eid=[UNIQID]) | 4/24 |
+
+|  |  |
+| :--- | :--- |
 | GT Metrix | [https://gtmetrix.com/](https://gtmetrix.com/) |
 | Pagespeed Insights | [https://developers.google.com/speed/pagespeed/insights/](%20https://developers.google.com/speed/pagespeed/insights/) |
 | Pingdom | [https://www.pingdom.com/](%20https://www.pingdom.com/) |
