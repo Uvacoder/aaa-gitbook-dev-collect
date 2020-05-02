@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [32 Tips For Every Web Developer In 2020](https://medium.com/better-programming/32-tips-for-every-web-developer-in-2020-782fd6554f0d) | 5/2 |
 | [10 Things Front-End Developers Should Learn in 2020](https://medium.com/better-programming/10-things-front-end-developers-should-learn-in-2020-61b448e75483) | 4/25 |
 | [Positioning Crash Course](https://gomakethings.com/positioning-crash-course/) | 4/10 |
 | [I Don’t Care What Google or Apple or Whoever Did](https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) | 4/5 |
