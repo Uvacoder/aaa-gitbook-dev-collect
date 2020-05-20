@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [7 Must-Use Front-End Debugging Tools](https://medium.com/better-programming/7-must-use-front-end-debugging-tools-53ab1807ad68) | 5/16 |
 | [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931) | 5/3 |
 | [32 Tips For Every Web Developer In 2020](https://medium.com/better-programming/32-tips-for-every-web-developer-in-2020-782fd6554f0d) | 5/2 |
 | [10 Things Front-End Developers Should Learn in 2020](https://medium.com/better-programming/10-things-front-end-developers-should-learn-in-2020-61b448e75483) | 4/25 |
