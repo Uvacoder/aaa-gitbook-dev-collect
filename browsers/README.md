@@ -1,5 +1,9 @@
 # Browsers
 
+|  |  |
+| :--- | :--- |
+| [A Basic Interview Question: Can You Explain Every Part of a URL?](https://medium.com/better-programming/a-basic-interview-question-can-you-explain-every-part-of-a-url-41fec140f80d) | 5/25 |
+
 ### Tools
 
 |  |  |
