@@ -2,7 +2,6 @@
 
 |  |  |
 | :--- | :--- |
-| [Customised \(and effective\) Visual Studio Code keyboard shortcuts for Mac and Windows \(Part 2\)](https://zellwk.com/blog/mac-and-windows-vscode-keybindings-2/?ck_subscriber_id=420572458) | 5/27 |
 | [Customised \(and effective\) Visual Studio Code keyboard shortcuts for Mac and Windows](https://zellwk.com/blog/mac-and-windows-vscode-keybindings/?ck_subscriber_id=420572458) | 5/20 |
 | [5 More VS Code Extensions That’ll Change Your Dev Life](https://medium.com/better-programming/5-more-vs-code-extensions-thatll-change-your-dev-life-16da5d563dbc) | 3/22 |
 | [What Does Your IDE/Code Editor Look Like?](https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=) | 2/13 |
