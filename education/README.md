@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [How to Become A Front-end Developer \(A Complete Practical Guide\)](https://dev.to/syakirurahman/how-to-become-a-front-end-developer-a-complete-practial-guide-3nfb?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/7 |
 | [More Front End Developer Newbie Mistakes](https://levelup.gitconnected.com/more-front-end-developer-newbie-mistakes-c24f899b99d6) | 5/31 |
 | [7 Must-Use Front-End Debugging Tools](https://medium.com/better-programming/7-must-use-front-end-debugging-tools-53ab1807ad68) | 5/16 |
 | [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931) | 5/3 |
