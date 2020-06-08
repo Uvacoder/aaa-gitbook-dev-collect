@@ -9,7 +9,7 @@
 | Gulp Boilerplate | https://github.com/cferdinandi/gulp-boilerplate |
 | Parcel | https://parceljs.org/ |
 | Unpkg | [http://unpkg.com/](http://unpkg.com/) |
-| webpack | https://webpack.js.org/ |
+| webpack | [https://webpack.js.org/configuration/](https://webpack.js.org/configuration/) |
 
 {% code title="Parcel" %}
 ```bash
