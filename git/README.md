@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| Replacing master in git | 6/14 |
 | [Git Explained: Proper Team Etiquette](https://dev.to/milu_franz/git-explained-proper-team-etiquette-1od) | 5/27 |
 | [https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet) | 3/9 |
 | [https://ohshitgit.com/](https://ohshitgit.com/) | 2/26 |
