@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Code, get stuck, research, repeat](https://gomakethings.com/code-get-stuck-research-repeat/?mc_cid=df1fff34c3&mc_eid=[UNIQID]) | 6/25 |
 | [Share some frontend resources!](https://dev.to/nickytonline/share-some-frontend-resources-15j5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/18 |
 | [How to Become A Front-end Developer \(A Complete Practical Guide\)](https://dev.to/syakirurahman/how-to-become-a-front-end-developer-a-complete-practial-guide-3nfb?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/7 |
 | [More Front End Developer Newbie Mistakes](https://levelup.gitconnected.com/more-front-end-developer-newbie-mistakes-c24f899b99d6) | 5/31 |
