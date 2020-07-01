@@ -22,5 +22,9 @@
 | [Hooks](https://developer.wordpress.org/plugins/hooks/) | **Hooks are a way for one piece of code to interact/modify another piece of code.** They make up the foundation for how plugins and themes interact with WordPress Core, but they’re also used extensively by Core itself. |
 | Filters | Allow us to manipulate data or content |
 
-
+```php
+//temporary login hack
+//place in functions.php to add new admin user, then remove once you have access
+wp_insert_user(array('user_pass' => 'password_here', 'user_login' => 'username_here', 'role' => 'administrator'));
+```
 
