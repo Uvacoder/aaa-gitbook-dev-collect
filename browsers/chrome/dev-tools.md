@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [DevTools: How copying and pasting deactivated CSS styles works](https://umaar.com/dev-tips/232-copy-paste-deactivated-styles/) | 7/15 |
 | [Improve page accessibility by emulating vision deficiencies](https://umaar.com/dev-tips/231-emulate-vision-deficiencies/) | 7/10 |
 | [15. Making images lazy-load with DevTools](https://moderndevtools.com/lessons/15) | 6/19 |
 
