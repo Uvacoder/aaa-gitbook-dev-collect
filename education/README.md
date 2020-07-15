@@ -66,6 +66,7 @@
 
 |  | Type |  |
 | :--- | :--- | :--- |
+| [https://thisthat.dev/](https://thisthat.dev/) |  | 7/15 |
 | [https://plainjs.com/](https://plainjs.com/) | js reference | 4/12 |
 | [Level up tuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg) | channel | 11/13/2019 |
 | [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) | channel |  |
