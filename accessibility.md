@@ -8,6 +8,7 @@
 
 |  |  |
 | :--- | :--- |
+| [When should you use ARIA?](https://gomakethings.com/when-should-you-use-aria/?mc_cid=fba48fd3af&mc_eid=[UNIQID]) | 7/17 |
 | [https://a11yproject.com/checklist/](https://a11yproject.com/checklist/) | 4/4 |
 | [WCAG 2.0 and Link Colors](https://webaim.org/blog/wcag-2-0-and-link-colors/) |  |
 | [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) | 12/10/2019 |
