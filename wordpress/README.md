@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Moving From WordPress to Gatsby](https://medium.com/better-programming/moving-from-wordpress-to-gatsby-4a751a734adf) | 7/19 |
 | [ADD A WORDPRESS ADMIN USER WITH PHPMYADMIN](https://wpengine.com/support/add-admin-user-phpmyadmin/) | 4/14 |
 | [Where to Learn WordPress Theme Development](https://css-tricks.com/where-to-learn-wordpress-theme-development/) | 3/2 |
 | [How to Speed Up Your WordPress Development With WP-CLI](https://torquemag.io/2017/02/wordpress-development-with-wp-cli/) | 12/13/2019 |
