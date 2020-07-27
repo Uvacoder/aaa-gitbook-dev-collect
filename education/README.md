@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Semantic versioning](https://gomakethings.com/semantic-versioning/?mc_cid=f6f44955fe&mc_eid=[UNIQID]) | 7/27 |
 | [40 Tips that will change your coding skills forever](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc) | 7/20 |
 | [Code, get stuck, research, repeat](https://gomakethings.com/code-get-stuck-research-repeat/?mc_cid=df1fff34c3&mc_eid=[UNIQID]) | 6/25 |
 | [Share some frontend resources!](https://dev.to/nickytonline/share-some-frontend-resources-15j5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/18 |
