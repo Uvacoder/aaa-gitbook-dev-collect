@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to Configure VS Code Like a Pro](https://medium.com/better-programming/how-to-configure-vs-code-like-a-pro-782d2d718586) | 7/29 |
 | [Speed up your development with this new VS Code extension](https://dev.to/alex_barashkov/speed-up-your-development-with-this-new-vs-code-extension-5b3m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/20 |
 | [Customised \(and effective\) Visual Studio Code keyboard shortcuts for Mac and Windows \(Part 2\)](https://zellwk.com/blog/mac-and-windows-vscode-keybindings-2/?ck_subscriber_id=420572458) | 5/27 |
 | [Customised \(and effective\) Visual Studio Code keyboard shortcuts for Mac and Windows](https://zellwk.com/blog/mac-and-windows-vscode-keybindings/?ck_subscriber_id=420572458) | 5/20 |
