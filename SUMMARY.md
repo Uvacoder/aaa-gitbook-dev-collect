@@ -30,6 +30,7 @@
 * [Favicon](favicon/README.md)
   * [Slider](favicon/slider/README.md)
     * [Slick](favicon/slider/slick.md)
+* [Fonts](fonts.md)
 * [Forms](forms.md)
 * [Git](git/README.md)
   * [Branches](git/branches.md)
