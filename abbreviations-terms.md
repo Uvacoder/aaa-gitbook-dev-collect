@@ -100,6 +100,7 @@
 | endpoint | The place that **APIs** send requests and where the resource lives, is called an **endpoint**. |
 | explicit | Stated clearly and in detail, leaving no room for confusion or doubt. |
 | function | a block of code designed to perform a particular task. |
+| localization | **Website localization** is the process of adapting an existing **website** to local language and culture in the target market. It is the process of adapting a **website** into a different linguistic and cultural context— involving much more than the simple translation of text. |
 | implicit | Implied though not plainly expressed |
 | obfuscate | render obscure, unclear, or unintelligible. |
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
