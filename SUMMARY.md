@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Pages](README.md)
-* [Abbreviations/Terms](abbreviations-terms.md)
 * [Accessibility](accessibility.md)
 * [Age gate](age-gate.md)
 * [API](api.md)
@@ -22,9 +21,11 @@
 * [Cookies](cookies.md)
 * [Domains](domains.md)
 * [Education](education/README.md)
+  * [Abbreviations](education/abbreviations-terms.md)
   * [Books](education/books.md)
   * [Gitbook](education/gitbook.md)
   * [Podcasts](education/podcasts.md)
+  * [Terms](education/terms.md)
   * [Tutorials](education/tutorials/README.md)
     * [Sources](education/tutorials/list.md)
 * [Favicon](favicon/README.md)
