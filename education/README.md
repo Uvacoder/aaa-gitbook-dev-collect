@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Improving web font performance with service workers](https://gomakethings.com/improving-web-font-performance-with-service-workers/?mc_cid=ec4b39f910&mc_eid=[UNIQID]) | 8/11 |
 | [Semantic versioning](https://gomakethings.com/semantic-versioning/?mc_cid=f6f44955fe&mc_eid=[UNIQID]) | 7/27 |
 | [40 Tips that will change your coding skills forever](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc) | 7/20 |
 | [Code, get stuck, research, repeat](https://gomakethings.com/code-get-stuck-research-repeat/?mc_cid=df1fff34c3&mc_eid=[UNIQID]) | 6/25 |
