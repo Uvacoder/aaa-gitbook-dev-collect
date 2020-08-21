@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [How you can stay motivated to work on personal projects](https://dev.to/afonsopacifer/how-you-can-stay-motivated-to-work-on-personal-projects-565a?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/21 |
 | [Improving web font performance with service workers](https://gomakethings.com/improving-web-font-performance-with-service-workers/?mc_cid=ec4b39f910&mc_eid=[UNIQID]) | 8/11 |
 | [Semantic versioning](https://gomakethings.com/semantic-versioning/?mc_cid=f6f44955fe&mc_eid=[UNIQID]) | 7/27 |
 | [40 Tips that will change your coding skills forever](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc) | 7/20 |
