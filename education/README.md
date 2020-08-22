@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [The complete learning path for Front-End developer \(Online courses\)](https://dev.to/denisveleaev/the-complete-learning-path-for-fron-end-developer-online-courses-bnl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/22 |
 | [How you can stay motivated to work on personal projects](https://dev.to/afonsopacifer/how-you-can-stay-motivated-to-work-on-personal-projects-565a?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/21 |
 | [Improving web font performance with service workers](https://gomakethings.com/improving-web-font-performance-with-service-workers/?mc_cid=ec4b39f910&mc_eid=[UNIQID]) | 8/11 |
 | [Semantic versioning](https://gomakethings.com/semantic-versioning/?mc_cid=f6f44955fe&mc_eid=[UNIQID]) | 7/27 |
