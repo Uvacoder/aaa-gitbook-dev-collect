@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [15 quick-fire Front-end interview questions](https://medium.com/javascript-in-plain-english/15-quick-fire-front-end-interview-questions-bb4d83d0817c) | 8/31 |
 | [Learning How to Learn Efficiently](https://dev.to/scroung720/learning-how-to-learn-diffused-mode-focused-mode-1-433b?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/29 |
 | [The complete learning path for Front-End developer \(Online courses\)](https://dev.to/denisveleaev/the-complete-learning-path-for-fron-end-developer-online-courses-bnl?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/22 |
 | [How you can stay motivated to work on personal projects](https://dev.to/afonsopacifer/how-you-can-stay-motivated-to-work-on-personal-projects-565a?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 8/21 |
