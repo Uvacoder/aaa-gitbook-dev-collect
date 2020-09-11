@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Accessibility](accessibility.md)
 * [Age gate](age-gate.md)
+* [Animation](animation.md)
 * [API](api.md)
 * [Browsers](browsers/README.md)
   * [Chrome](browsers/chrome/README.md)
