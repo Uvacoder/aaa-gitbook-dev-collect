@@ -34,6 +34,7 @@
 * [Fonts](fonts.md)
 * [Forms](forms.md)
 * [Git](git/README.md)
+  * [Generators](git/generators.md)
   * [Branches](git/branches.md)
   * [Remotes](git/remotes.md)
 * [Images](images.md)
