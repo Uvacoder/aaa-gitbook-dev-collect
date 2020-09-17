@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-progressive-enhancement/?utm_source=CSS-Weekly&utm_campaign=Issue-427&utm_medium=email) | 9/17 |
 | [I was wrong about how to create accessible subtitles](https://gomakethings.com/i-was-wrong-about-how-to-create-accessible-subtitles/?mc_cid=86c1841e90&mc_eid=[UNIQID]) | 8/26 |
 | [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/?mc_cid=71656d75a6&mc_eid=[UNIQID]) | 6/24 |
 | [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/?utm_source=CSS-Weekly&utm_campaign=Issue-414&utm_medium=email) | 6/10 |
