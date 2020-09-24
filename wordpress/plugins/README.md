@@ -1,5 +1,9 @@
 # Plugins
 
+|  |  |
+| :--- | :--- |
+| [20 of the best WordPress plugins for web designers \(+ what to avoid!\)](https://getflywheel.com/layout/best-plugins-web-designers/) | 9/24 |
+
 <table>
   <thead>
     <tr>
@@ -71,10 +75,6 @@
       <td style="text-align:left">WP-REST-API V2 Menus</td>
       <td style="text-align:left"><a href="https://wordpress.org/plugins/wp-rest-api-v2-menus/">https://wordpress.org/plugins/wp-rest-api-v2-menus/</a>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
