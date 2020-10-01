@@ -2,6 +2,7 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
+| [http://squoosh.app/](http://squoosh.app/) |  | 10/1 |
 | [https://imagecompressor.com/](https://imagecompressor.com/) | optimizilla  | 3/4 |
 | [https://loremflickr.com/](https://loremflickr.com/) | placeholder image | 2/18 |
 | [Time-saving CSS techniques to create responsive images](https://medium.com/free-code-camp/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5) |  | 12/3/2019 |
