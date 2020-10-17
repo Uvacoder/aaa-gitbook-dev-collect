@@ -2,6 +2,8 @@
 
 |  |  |
 | :--- | :--- |
+| [How to quickly create a new GitHub Gist or CodePen](https://gomakethings.com/how-to-quickly-create-a-new-github-gist-or-codepen/) | 10/17 |
+| [Patterns for writing better git commit messages](https://dev.to/helderburato/patterns-for-writing-better-git-commit-messages-4ba0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 9/13 |
 | [Replacing master in git](https://dev.to/damcosset/replacing-master-in-git-2jim) | 6/15 |
 | [Git Explained: Proper Team Etiquette](https://dev.to/milu_franz/git-explained-proper-team-etiquette-1od) | 5/27 |
 | [https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet) | 3/9 |
