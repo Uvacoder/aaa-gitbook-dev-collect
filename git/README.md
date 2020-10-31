@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to rename your default GitHub branch to main](https://gomakethings.com/how-to-rename-your-default-github-branch-to-main/) | 10/31 |
 | [How to quickly create a new GitHub Gist or CodePen](https://gomakethings.com/how-to-quickly-create-a-new-github-gist-or-codepen/) | 10/17 |
 | [Patterns for writing better git commit messages](https://dev.to/helderburato/patterns-for-writing-better-git-commit-messages-4ba0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 9/13 |
 | [Replacing master in git](https://dev.to/damcosset/replacing-master-in-git-2jim) | 6/15 |
