@@ -30,6 +30,7 @@
 | function | a block of code designed to perform a particular task. |
 | localization | **Website localization** is the process of adapting an existing **website** to local language and culture in the target market. It is the process of adapting a **website** into a different linguistic and cultural context— involving much more than the simple translation of text. |
 | implicit | Implied though not plainly expressed |
+| [node](https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM) | In the context of the [DOM](https://developer.mozilla.org/en-US/docs/Glossary/DOM), a **node** is a single point in the node tree. Various things that are nodes are the document itself, elements, text, and comments. |
 | obfuscate | render obscure, unclear, or unintelligible. |
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
 | Seperation of concerns | Design principle for **separating** a computer program into distinct sections such that each section addresses a separate **concern**. A **concern** is a set of information that affects the code of a computer program. |
