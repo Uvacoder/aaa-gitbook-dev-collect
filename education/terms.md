@@ -19,7 +19,7 @@
 | compiler | program that converts code into an executable |
 | constant | variable that never changes its value |
 | constructors | The constructor method is a special method for creating and initializing an object created within a class. |
-|  corner case | In engineering, a **corner case** \(or pathological **case**\) involves a problem or situation that occurs only outside of normal operating parameters |
+| corner case | In engineering, a **corner case** \(or pathological **case**\) involves a problem or situation that occurs only outside of normal operating parameters |
 | crash | to cause a running program to stop due to an error |
 | debug | to investigate and fix bugs |
 | declaration | code that declares that something exists |
