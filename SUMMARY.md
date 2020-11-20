@@ -47,6 +47,7 @@
 * [Modals](modals.md)
 * [Navigation](navigation.md)
 * [Performance](performance.md)
+* [Portfolio](portfolio.md)
 * [Productivity](productivity.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
