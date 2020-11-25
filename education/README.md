@@ -4,7 +4,6 @@
 
 | Article title / link | Date |
 | :--- | :--- |
-| [How to Become a Better Developer Every Single day](https://medium.com/javascript-in-plain-english/how-to-become-a-better-developer-every-single-day-22f771de5897) | 11/22 |
 | [Web Development Resources](https://dev.to/iamismile/web-development-resources-96?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/8 |
 | [3 Methods to Actually Remember What You Learn in Coding Tutorials](https://dev.to/canderson93/3-methods-to-actually-remember-what-you-learn-in-coding-tutorials-j98?utm_campaign=Frontend%2BWeekly&utm_medium=email&utm_source=Frontend_Weekly_224) | 10/21 |
 | [30 Programming Jokes That Will Make You Laugh](https://medium.com/javascript-in-plain-english/30-programming-jokes-that-will-make-you-laugh-98f9e20c34e9) | 10/19 |
