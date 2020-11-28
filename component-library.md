@@ -2,6 +2,10 @@
 
 |  |  |
 | :--- | :--- |
+| [Do you think your component library is your design system? Think again](https://uxdesign.cc/do-you-think-your-component-library-is-your-design-system-think-again-7e2c902b5275) | 11/28 |
+
+|  |  |
+| :--- | :--- |
 | 9 Web Component UI Libraries 2019 | https://medium.com/p/9d4476c3f103/responses/show |
 | Ant Design | [https://ant.design/](%20https://ant.design/) |
 | Bit | [https://bit.dev/](https://bit.dev/) |
