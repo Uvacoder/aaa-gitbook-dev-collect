@@ -55,6 +55,11 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Imagify</td>
+      <td style="text-align:left"><a href="https://imagify.io/wordpress/">https://imagify.io/wordpress/</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Meta Box</td>
       <td style="text-align:left">https://metabox.io/</td>
     </tr>

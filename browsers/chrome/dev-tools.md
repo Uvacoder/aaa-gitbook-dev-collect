@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The monitorEvents\(\) console method in webkit/blink browsers](https://gomakethings.com/the-monitorevents-console-method-in-webkit/blink-browsers/) | 11/25 |
 | [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/) | 11/18 |
 | [Create your own keyboard shortcuts and increase productivity](https://umaar.com/dev-tips/239-shortcut-editor/) | 11/11 |
 | [Chrome DevTools: Accessible colour suggestions for low contrast text](https://umaar.com/dev-tips/236-accessible-colour-suggestions/) | 11/6 |
