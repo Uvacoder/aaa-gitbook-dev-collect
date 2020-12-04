@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/) | 12/4 |
 | [What Is ARIA Even For?](https://briefs.video/#pilot) | 11/16 |
 | [:focus-visible Is Here](https://css-tricks.com/focusing-on-focus-styles/) | 10/30 |
 | [Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-progressive-enhancement/?utm_source=CSS-Weekly&utm_campaign=Issue-427&utm_medium=email) | 9/17 |
