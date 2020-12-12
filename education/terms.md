@@ -33,6 +33,7 @@
 | [node](https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM) | In the context of the [DOM](https://developer.mozilla.org/en-US/docs/Glossary/DOM), a **node** is a single point in the node tree. Various things that are nodes are the document itself, elements, text, and comments. |
 | obfuscate | render obscure, unclear, or unintelligible. |
 | parameter | A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation. |
+| Principle of least privilege | Requires that in a particular [abstraction layer](https://en.wikipedia.org/wiki/Abstraction_layer) of a computing environment, every module \(such as a [process](https://en.wikipedia.org/wiki/Process_%28computing%29), a [user](https://en.wikipedia.org/wiki/User_%28computing%29), or a [program](https://en.wikipedia.org/wiki/Computer_program), depending on the subject\) must be able to access only the information and [resources](https://en.wikipedia.org/wiki/Resource_%28computer_science%29) that are necessary for its legitimate purpose. |
 | Seperation of concerns | Design principle for **separating** a computer program into distinct sections such that each section addresses a separate **concern**. A **concern** is a set of information that affects the code of a computer program. |
 | stack trace | A report of the active stack frames at a certain point in time during the execution of a program. |
 | stateless | The client data is not stored on the server, the session is stored client-side \(typically in session storage\). |

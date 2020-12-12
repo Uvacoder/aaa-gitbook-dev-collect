@@ -48,6 +48,7 @@
 | NERDS | Node.js, Express, React, Databases using SQL |
 | NPM | Node package management |
 | PHP | Php: hypertext preprocessor |
+| POLP | Principle of least privilege |
 | PWA | Progressive web apps |
 | REPL | read-eval-print loop |
 | Rest API | Representational State Transfer |
