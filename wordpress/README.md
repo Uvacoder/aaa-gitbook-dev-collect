@@ -12,7 +12,6 @@
 | :--- | :--- |
 | [Codex](https://codex.wordpress.org/) |  |
 | [Codex - function](https://codex.wordpress.org/Function_Reference) |  |
-| [Dashicons](https://developer.wordpress.org/resource/dashicons/) | 12/13 |
 | [Developer.wordpress](https://developer.wordpress.org/themes/getting-started/) |  |
 | [Developer - template hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/) |  |
 | [Easy wp guide](https://easywpguide.com/) |  |

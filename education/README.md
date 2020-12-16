@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Why we should use Ergonomic keyboards](https://zellwk.com/blog/ergonomic-keyboard/?ck_subscriber_id=420572458) | 12/16 |
 | [4 CSS and JavaScript Tricks to Breathe Life Into Your Website](https://medium.com/better-programming/4-css-and-javascript-tricks-to-breathe-life-into-your-website-6464f470a86d) | 12/12 |
 | [My Top Dev Tools in 2020](https://medium.com/swlh/my-top-dev-tools-in-2020-ec1fc8571dd3) | 12/5 |
 | [How to Become a Better Developer Every Single day](https://medium.com/javascript-in-plain-english/how-to-become-a-better-developer-every-single-day-22f771de5897) | 11/22 |
