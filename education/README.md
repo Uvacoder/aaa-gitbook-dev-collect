@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [Slow Movement](https://css-tricks.com/slow-movement/) | 12/18 |
 | [Why we should use Ergonomic keyboards](https://zellwk.com/blog/ergonomic-keyboard/?ck_subscriber_id=420572458) | 12/16 |
 | [4 CSS and JavaScript Tricks to Breathe Life Into Your Website](https://medium.com/better-programming/4-css-and-javascript-tricks-to-breathe-life-into-your-website-6464f470a86d) | 12/12 |
 | [My Top Dev Tools in 2020](https://medium.com/swlh/my-top-dev-tools-in-2020-ec1fc8571dd3) | 12/5 |
