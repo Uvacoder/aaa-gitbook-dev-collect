@@ -2,7 +2,7 @@
 
 |  |  |
 | :--- | :--- |
-| [The difference between aria-label, aria-labelledby, and aria-describedby](https://gomakethings.com/the-difference-between-aria-label-aria-labelledby-and-aria-describedby/) | 12/22 |
+| [The difference between aria-label, aria-labelledby, and aria-describedby](https://benmyers.dev/blog/aria-labels-and-descriptions/) | 12/22 |
 | [5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/) | 12/4 |
 | [What Is ARIA Even For?](https://briefs.video/#pilot) | 11/16 |
 | [:focus-visible Is Here](https://css-tricks.com/focusing-on-focus-styles/) | 10/30 |
