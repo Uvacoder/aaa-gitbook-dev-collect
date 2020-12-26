@@ -4,6 +4,7 @@
 
 | Article title / link | Date |
 | :--- | :--- |
+| [3 Things You Can Do Today To Stay Healthy While Working From Home](https://blog.prototypr.io/3-things-you-can-do-today-to-stay-healthy-while-working-from-home-f787c3c32c4a) | 12/26 |
 | [Slow Movement](https://css-tricks.com/slow-movement/) | 12/18 |
 | [Why we should use Ergonomic keyboards](https://zellwk.com/blog/ergonomic-keyboard/?ck_subscriber_id=420572458) | 12/16 |
 | [4 CSS and JavaScript Tricks to Breathe Life Into Your Website](https://medium.com/better-programming/4-css-and-javascript-tricks-to-breathe-life-into-your-website-6464f470a86d) | 12/12 |
