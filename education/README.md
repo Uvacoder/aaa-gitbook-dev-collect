@@ -1,5 +1,11 @@
 # Education
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/) | 1/6 |
+
 ### 2020
 
 | Article title / link | Date |
