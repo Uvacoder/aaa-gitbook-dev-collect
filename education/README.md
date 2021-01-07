@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How I Debug](https://jerryjones.dev/2020/08/19/how-i-debug/) | 1/7 |
 | [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/) | 1/6 |
 
 ### 2020
