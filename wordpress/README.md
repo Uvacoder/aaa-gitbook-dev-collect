@@ -1,5 +1,13 @@
 # WordPress
 
+### 2021
+
+|  |  |
+| :--- | :--- |
+| [5 Tips to Speed Up Image Loading on Your WordPress Website](https://managewp.com/blog/image-optimization-wordpress) | 1/14 |
+
+### 2020
+
 |  |  |
 | :--- | :--- |
 | [Best Resources For WordPress Developers \| Blogs, Books, Courses, and Chats!](https://www.youtube.com/watch?v=mLsVTdCNGHA&feature=share) | 7/23 |
@@ -12,6 +20,7 @@
 | :--- | :--- |
 | [Codex](https://codex.wordpress.org/) |  |
 | [Codex - function](https://codex.wordpress.org/Function_Reference) |  |
+| [Dashicons](https://developer.wordpress.org/resource/dashicons/) | 12/13 |
 | [Developer.wordpress](https://developer.wordpress.org/themes/getting-started/) |  |
 | [Developer - template hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/) |  |
 | [Easy wp guide](https://easywpguide.com/) |  |
