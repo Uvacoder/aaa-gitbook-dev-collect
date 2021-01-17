@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [44 Essential Communities on Reddit for Software Developers](https://medium.com/javascript-in-plain-english/40-essential-online-communities-on-reddit-for-software-developers-f6e76e3cf5f) | 1/17 |
 | [40 "Free Forever" Tools for Developers](https://dev.to/hrishikesh1990/40-free-forever-tools-for-developers-4gdm?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 1/10 |
 | [How I Debug](https://jerryjones.dev/2020/08/19/how-i-debug/) | 1/7 |
 | [My stack will outlive yours](https://blog.steren.fr/2020/my-stack-will-outlive-yours/) | 1/6 |
