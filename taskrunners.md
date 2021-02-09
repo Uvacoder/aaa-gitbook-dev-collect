@@ -1,13 +1,5 @@
 # Bundler / taskrunner
 
-### 2021
-
-|  |  |
-| :--- | :--- |
-| [Presenting v7.0.0 of the npm CLI](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/) | 2/4 |
-
-### 2020
-
 |  |  |
 | :--- | :--- |
 | [The Anatomy of package.json](https://dev.to/laurieontech/the-anatomy-of-package-json-pi4?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 12/6 |
