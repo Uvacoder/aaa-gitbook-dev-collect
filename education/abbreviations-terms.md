@@ -25,6 +25,7 @@
 | DOM | Document object model |
 | DRY | Dont repeat yourself |
 | ES6 | Ecmascript 6 |
+| FOUC | flash of unstyled content |
 | FTP | File transfer protocol |
 | GCP | Google cloud platform |
 | GraphQL | Graph query language |
