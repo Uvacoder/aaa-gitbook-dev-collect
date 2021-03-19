@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 useful sites for FRONTEND devs](https://dev.to/lucasandre/5-useful-sites-for-frontend-devs-1212?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 3/19 |
 | [The web didn't change; you did](https://remysharp.com/2021/02/11/the-web-didnt-change-you-did) | 2/18 |
 | [5 Amazing Benefits of Sharing Knowledge as a Developer](https://medium.com/better-programming/5-amazing-benefits-of-sharing-knowledge-as-a-developer-7d6f3ce6b7ee) | 2/14 |
 | [44 Essential Communities on Reddit for Software Developers](https://medium.com/javascript-in-plain-english/40-essential-online-communities-on-reddit-for-software-developers-f6e76e3cf5f) | 1/17 |
