@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Swipey image grids](https://www.cassie.codes/posts/swipey-image-grids/) | 4/5 |
 | [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/) |  |
 | [Hand-SVGing a Curved Line](https://www.youtube.com/watch?v=pKMLPHfLN7k) | 4/11 |
 | [Masking GIFs with other GIFs](https://css-tricks.com/masking-gifs-with-other-gifs/) | 12/9/2019 |
