@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [40+ Useful Resources for Mastering Web🎁](https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h) | 4/14 |
 | [Space Jam](https://mxb.dev/blog/space-jam/) | 4/13 |
 | [8 Acronyms Every Programmer Should Know](https://javascript.plainenglish.io/8-acronyms-every-programmer-should-know-34d56b95c81) | 4/4 |
 | [Gatekeepers love to gatekeep](https://gomakethings.com/gatekeepers-love-to-gatekeep/) | 3/31 |
