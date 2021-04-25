@@ -4,6 +4,8 @@
 
 |  |  |
 | :--- | :--- |
+| [Daily Dose of Programming Humor: Part 10](https://radiant-brushlands-42789.herokuapp.com/javascript.plainenglish.io/daily-dose-of-programming-humor-part-10-1714def3bf75) | 4/25 |
+| [Overcoming 7 main problems of learning to code for people who don’t have a developer job](https://zellwk.com/blog/7-challenges-of-learning-code/?ck_subscriber_id=420572458) | 4/16 |
 | [40+ Useful Resources for Mastering Web🎁](https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h) | 4/14 |
 | [Space Jam](https://mxb.dev/blog/space-jam/) | 4/13 |
 | [8 Acronyms Every Programmer Should Know](https://javascript.plainenglish.io/8-acronyms-every-programmer-should-know-34d56b95c81) | 4/4 |
