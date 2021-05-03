@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 Design Tips for Front-End Developers](https://javascript.plainenglish.io/5-design-tips-for-front-end-developers-900e7a1106e1) | 5/3 |
 | [Daily Dose of Programming Humor: Part 10](https://radiant-brushlands-42789.herokuapp.com/javascript.plainenglish.io/daily-dose-of-programming-humor-part-10-1714def3bf75) | 4/25 |
 | [Overcoming 7 main problems of learning to code for people who don’t have a developer job](https://zellwk.com/blog/7-challenges-of-learning-code/?ck_subscriber_id=420572458) | 4/16 |
 | [40+ Useful Resources for Mastering Web🎁](https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h) | 4/14 |
