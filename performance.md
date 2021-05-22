@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [USEspeedlify’s AvatarSPEEDLIFY TO CONTINUOUSLY MEASURE SITE PERFORMANCE](https://www.zachleat.com/web/speedlify/) | 5/21 |
 | [You don't get a free pass on web performance just because you built an app](https://gomakethings.com/you-dont-get-a-free-pass-on-web-performance-just-because-you-built-an-app/?mc_cid=c408b58b94&mc_eid=[UNIQID]) | 4/27 |
 | [Lightning fast web performance](https://gomakethings.com/lightning-fast-web-performance/?mc_cid=cc47eefa14&mc_eid=[UNIQID]) | 4/24 |
 
