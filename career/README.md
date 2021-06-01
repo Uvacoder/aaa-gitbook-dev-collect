@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Tech interviews are stupid](https://gomakethings.com/tech-interviews-are-stupid/) | 6/1 |
 | [When Do Programmers Retire? Is 35 the End?](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/when-do-programmers-retire-is-35-the-end-72d173760ee2) | 5/23 |
 | [5 Different Software Developer Personalities That I’ve Met So Far](https://betterprogramming.pub/5-different-software-developer-personalities-that-ive-met-so-far-13784f3a8d4a) | 3/14 |
 | [How to become a Kickass Web Developer in 2021 \[Frontend & Backend Tips\]](https://dev.to/suniljoshi19/how-to-become-a-kickass-web-developer-in-2021-frontend-backend-tips-457h?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 10/29 |
