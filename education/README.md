@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The mobile web is the web](https://gomakethings.com/the-mobile-web-is-the-web/) | 6/4 |
 | [5 Design Tips for Front-End Developers](https://javascript.plainenglish.io/5-design-tips-for-front-end-developers-900e7a1106e1) | 5/3 |
 | [Daily Dose of Programming Humor: Part 10](https://radiant-brushlands-42789.herokuapp.com/javascript.plainenglish.io/daily-dose-of-programming-humor-part-10-1714def3bf75) | 4/25 |
 | [Overcoming 7 main problems of learning to code for people who don’t have a developer job](https://zellwk.com/blog/7-challenges-of-learning-code/?ck_subscriber_id=420572458) | 4/16 |
