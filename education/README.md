@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p) | 6/10 |
 | [Better Micro Frontends and Design Systems with Independent Components](https://blog.bitsrc.io/better-micro-frontends-and-design-systems-with-independent-components-c2e2187d73c9) | 6/5 |
 | [The mobile web is the web](https://gomakethings.com/the-mobile-web-is-the-web/) | 6/4 |
 | [5 Design Tips for Front-End Developers](https://javascript.plainenglish.io/5-design-tips-for-front-end-developers-900e7a1106e1) | 5/3 |
