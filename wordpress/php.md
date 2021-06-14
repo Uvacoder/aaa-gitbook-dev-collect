@@ -1,8 +1,9 @@
 # PHP
 
-|  |  |  |
-| :--- | :--- | :--- |
-| [date documentation](https://www.php.net/manual/en/function.date.php) | 12/10/2019 | 12/10/2019 |
+|  |  |
+| :--- | :--- |
+| [PHP is a great language](https://gomakethings.com/php-is-a-great-language/) | 6/14/2021 |
+| [date documentation](https://www.php.net/manual/en/function.date.php) | 12/10/2019 |
 
 ### Display contents of variable
 
