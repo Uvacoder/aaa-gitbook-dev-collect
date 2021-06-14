@@ -4,7 +4,7 @@
 
 {% code title="Create bash profile then open it" %}
 ```bash
-touch ~/.bash_profile;
+touch ~/.bash_profile
 open ~/.bash_profile
 ```
 {% endcode %}
