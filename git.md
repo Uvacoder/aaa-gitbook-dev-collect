@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [25 Git commands I use daily and you should know](https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5) | 6/17 |
 | [Modifying git History \(1/3\) - Amending a Commit in git](https://www.youtube.com/watch?v=ckEyL7gMRbA) | 12/2 |
 | [10 Awesome Github Repos Every Web Developer Should Know](https://dev.to/simonholdorf/10-awesome-github-repos-every-web-developer-should-know-27oa?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 11/15 |
 | [How to rename your default GitHub branch to main](https://gomakethings.com/how-to-rename-your-default-github-branch-to-main/) | 10/31 |
