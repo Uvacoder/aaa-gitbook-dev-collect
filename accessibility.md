@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [The full stack developer myth](https://gomakethings.com/the-full-stack-developer-myth/) | 6/22 |
 | [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) | 6/7 |
 | There's no such thing as a website or web app that doesn't need to be accessible | 3/15 |
 | [The difference between aria-label, aria-labelledby, and aria-describedby](https://benmyers.dev/blog/aria-labels-and-descriptions/) | 12/22 |
