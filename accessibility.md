@@ -5,7 +5,7 @@
 | [Images and screen reader users](https://gomakethings.com/images-and-screen-reader-users/) | 6/25 |
 | [The full stack developer myth](https://gomakethings.com/the-full-stack-developer-myth/) | 6/22 |
 | [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) | 6/7 |
-| There's no such thing as a website or web app that doesn't need to be accessible | 3/15 |
+| [There's no such thing as a website or web app that doesn't need to be accessible](https://gomakethings.com/theres-no-such-thing-as-a-website-or-web-app-that-doesnt-need-to-be-accessible/) | 3/15 |
 | [The difference between aria-label, aria-labelledby, and aria-describedby](https://benmyers.dev/blog/aria-labels-and-descriptions/) | 12/22 |
 | [5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/) | 12/4 |
 | [What Is ARIA Even For?](https://briefs.video/#pilot) | 11/16 |
