@@ -2,6 +2,7 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
+| [The One About Images](https://css-tricks.com/newsletter/257-the-one-about-images/) |  | 6/29 |
 | [http://squoosh.app/](http://squoosh.app/) |  | 10/1 |
 | [https://imagecompressor.com/](https://imagecompressor.com/) | optimizilla  | 3/4 |
 | [https://loremflickr.com/](https://loremflickr.com/) | placeholder image | 2/18 |
