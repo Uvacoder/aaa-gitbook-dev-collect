@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [6 Amazing Frontend Coding Tips That You Probably Don’t Know](https://blog.devgenius.io/6-amazing-frontend-coding-tips-that-you-probably-dont-know-6fdfa2e2b264) | 7/4 |
 | [7 Basic Concepts You Should Know as a Junior Web Developer](https://blog.devgenius.io/7-basic-concepts-you-should-know-as-a-junior-web-developer-e37b2723db5f) | 6/19 |
 | [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p) | 6/10 |
 | [Better Micro Frontends and Design Systems with Independent Components](https://blog.bitsrc.io/better-micro-frontends-and-design-systems-with-independent-components-c2e2187d73c9) | 6/5 |
