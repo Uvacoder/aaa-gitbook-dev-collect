@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Grace Hopper on asking for forgiveness vs. asking for permission](https://gomakethings.com/grace-hopper-on-asking-for-forgiveness-vs.-asking-for-permission/) | 7/6 |
 | [One Software Developer Personality Everyone Loves To Work With](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/one-software-developer-personality-everyone-loves-to-work-with-15b841cbc80e) | 6/30 |
 | [5 Struggles of a Quiet Programmer](https://betterprogramming.pub/5-struggles-of-a-quiet-programmer-af9fc16108fe) | 6/16 |
 | [Tech interviews are stupid](https://gomakethings.com/tech-interviews-are-stupid/) | 6/1 |
