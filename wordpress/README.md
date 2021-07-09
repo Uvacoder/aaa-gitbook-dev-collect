@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [What’s New in WordPress 5.8](https://kinsta.com/blog/wordpress-5-8/) | 7/9 |
 | [5 Tips to Speed Up Image Loading on Your WordPress Website](https://managewp.com/blog/image-optimization-wordpress) | 1/14 |
 
 ### 2020
