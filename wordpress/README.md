@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Query Loop: The Ins and Outs of One of WordPress 5.8’s Most Powerful Features](https://wptavern.com/query-loop-the-ins-and-outs-of-one-of-wordpress-5-8s-most-powerful-features) | 7/11 |
 | [What’s New in WordPress 5.8](https://kinsta.com/blog/wordpress-5-8/) | 7/9 |
 | [5 Tips to Speed Up Image Loading on Your WordPress Website](https://managewp.com/blog/image-optimization-wordpress) | 1/14 |
 
