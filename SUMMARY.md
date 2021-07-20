@@ -12,6 +12,7 @@
     * [Extensions](browsers/chrome/extensions.md)
 * [Bundler / taskrunner](taskrunners.md)
 * [Buttons](buttons.md)
+* [Cache](cache.md)
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
