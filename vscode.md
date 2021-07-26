@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Easier browser debugging with Developer Tools integration in Visual Studio Code](https://blogs.windows.com/msedgedev/2021/07/16/easier-debugging-developer-tools-in-visual-studio-code/) | 7/26 |
 | [10 Top Visual Studio Code Extensions in 2020](https://blog.bitsrc.io/top-10-visual-studio-extensions-in-2020-857ea6d692dd) | 9/6 |
 | [How to Configure VS Code Like a Pro](https://medium.com/better-programming/how-to-configure-vs-code-like-a-pro-782d2d718586) | 7/29 |
 | [Speed up your development with this new VS Code extension](https://dev.to/alex_barashkov/speed-up-your-development-with-this-new-vs-code-extension-5b3m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 6/20 |
