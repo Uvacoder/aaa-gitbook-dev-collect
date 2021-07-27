@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [How to hack your job hunt](https://gomakethings.com/how-to-hack-your-job-hunt/) | 7/27 |
 | [The Most Underrated Technique To Nail Senior Developer Interviews](https://betterprogramming.pub/the-most-underrated-technique-to-nail-senior-developer-interviews-f917025453b7) | 7/25 |
 | [Grace Hopper on asking for forgiveness vs. asking for permission](https://gomakethings.com/grace-hopper-on-asking-for-forgiveness-vs.-asking-for-permission/) | 7/6 |
 | [One Software Developer Personality Everyone Loves To Work With](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/one-software-developer-personality-everyone-loves-to-work-with-15b841cbc80e) | 6/30 |
