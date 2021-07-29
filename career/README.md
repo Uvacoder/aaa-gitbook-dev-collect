@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Hacking your resume to get it in front of an actual human](https://gomakethings.com/hacking-your-resume-to-get-it-in-front-of-an-actual-human/) | 7/29 |
 | [How to hack your job hunt](https://gomakethings.com/how-to-hack-your-job-hunt/) | 7/27 |
 | [The Most Underrated Technique To Nail Senior Developer Interviews](https://betterprogramming.pub/the-most-underrated-technique-to-nail-senior-developer-interviews-f917025453b7) | 7/25 |
 | [Grace Hopper on asking for forgiveness vs. asking for permission](https://gomakethings.com/grace-hopper-on-asking-for-forgiveness-vs.-asking-for-permission/) | 7/6 |
