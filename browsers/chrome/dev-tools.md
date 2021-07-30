@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Chrome DevTools: Easily control typography with the CSS Font Editor](https://umaar.com/dev-tips/244-font-editor/) | 7/30 |
 | [Chrome DevTools: Copy an element into your clipboard with this keyboard only workflow](https://umaar.com/dev-tips/225-copy-html-element-clipboard/) | 4/2 |
 | [The monitorEvents\(\) console method in webkit/blink browsers](https://gomakethings.com/the-monitorevents-console-method-in-webkit/blink-browsers/) | 11/25 |
 | [Chrome DevTools: Refactor and improve your stylesheets with the CSS Overview Panel](https://umaar.com/dev-tips/240-css-overview-improved/) | 11/18 |
