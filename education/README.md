@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [9 Programming Life Lessons You Must Experience Yourself to Truly Understand](https://betterprogramming.pub/9-programming-life-lessons-you-must-experience-yourself-to-truly-understand-d258d3f65e2e) | 8/3 |
 | [3 Tips To Improve Your Verbal Communication Skills](https://betterprogramming.pub/3-tips-to-improve-your-verbal-communication-skills-d461ff36688a) | 7/5 |
 | [6 Amazing Frontend Coding Tips That You Probably Don’t Know](https://blog.devgenius.io/6-amazing-frontend-coding-tips-that-you-probably-dont-know-6fdfa2e2b264) | 7/4 |
 | [7 Basic Concepts You Should Know as a Junior Web Developer](https://blog.devgenius.io/7-basic-concepts-you-should-know-as-a-junior-web-developer-e37b2723db5f) | 6/19 |
