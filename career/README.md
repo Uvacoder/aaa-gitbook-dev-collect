@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Is Staying in a Company for a Very Long Time Worth It?](https://radiant-brushlands-42789.herokuapp.com/betterprogramming.pub/is-staying-in-a-company-for-a-very-long-time-worth-it-9d40976e9bd6) | 8/22 |
 | [5 Common CV Mistakes To Avoid If You Want To Get Hired](https://betterprogramming.pub/5-common-cv-mistakes-to-avoid-if-you-want-to-get-hired-4b454a8055dc) | 8/1 |
 | [Hacking your resume to get it in front of an actual human](https://gomakethings.com/hacking-your-resume-to-get-it-in-front-of-an-actual-human/) | 7/29 |
 | [How to hack your job hunt](https://gomakethings.com/how-to-hack-your-job-hunt/) | 7/27 |
