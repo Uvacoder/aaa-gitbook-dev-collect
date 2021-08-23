@@ -21,6 +21,7 @@
 * [Component library](component-library.md)
 * [Container](container.md)
 * [Cookies](cookies.md)
+* [Data](data.md)
 * [Domains](domains.md)
 * [eCommerce](ecommerce.md)
 * [Education](education/README.md)
