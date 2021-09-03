@@ -4,6 +4,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Interactive Learning Tools For Front-End Developers](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/) | 9/3 |
 | [Start small](https://gomakethings.com/start-small/) | 8/26 |
 | [How I setup and configure all of my websites](https://gomakethings.com/how-i-setup-and-configure-all-of-my-websites/) | 8/18 |
 | [9 Programming Life Lessons You Must Experience Yourself to Truly Understand](https://betterprogramming.pub/9-programming-life-lessons-you-must-experience-yourself-to-truly-understand-d258d3f65e2e) | 8/3 |
