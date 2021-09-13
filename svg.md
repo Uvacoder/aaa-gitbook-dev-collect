@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [Clip-path converter](https://yoksel.github.io/relative-clip-path/) | 9/13 |
 | [Swipey image grids](https://www.cassie.codes/posts/swipey-image-grids/) | 4/5 |
 | [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/) |  |
 | [Hand-SVGing a Curved Line](https://www.youtube.com/watch?v=pKMLPHfLN7k) | 4/11 |
