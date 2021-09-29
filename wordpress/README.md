@@ -4,6 +4,8 @@
 
 |  |  |
 | :--- | :--- |
+| [Implementing a Webfonts API in WordPress Core](https://make.wordpress.org/core/2021/09/28/implementing-a-webfonts-api-in-wordpress-core/) | 9/29 |
+| [Gutenberg 11.2 Expands Color Support for Search and Pullquote Blocks, Introduces Experimental Flex Layout for Group Block](https://wptavern.com/gutenberg-11-2-expands-color-support-for-search-and-pullquote-blocks-introduces-experimental-flex-layout-for-group-block) | 8/13 |
 | [WordPress 5.8 Tatum](https://wordpress.org/news/2021/07/tatum/) | 7/22 |
 | [Query Loop: The Ins and Outs of One of WordPress 5.8’s Most Powerful Features](https://wptavern.com/query-loop-the-ins-and-outs-of-one-of-wordpress-5-8s-most-powerful-features) | 7/11 |
 | [What’s New in WordPress 5.8](https://kinsta.com/blog/wordpress-5-8/) | 7/9 |
