@@ -2,6 +2,7 @@
 
 |  |  |
 | :--- | :--- |
+| [web.dev/accessible](https://web.dev/accessible/) | 10/6 |
 | [Images and screen reader users](https://gomakethings.com/images-and-screen-reader-users/) | 6/25 |
 | [The full stack developer myth](https://gomakethings.com/the-full-stack-developer-myth/) | 6/22 |
 | [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) | 6/7 |
